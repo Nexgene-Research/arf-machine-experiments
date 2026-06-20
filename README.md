@@ -13,12 +13,14 @@ This repository publishes reproducible case studies from Arf Machine runs. Each 
 | Case | Target | Headline metric | Link |
 | --- | --- | --- | --- |
 | OpenBind EV-A71 2A Affinity | EV-A71 2A protease | Spearman rho 0.57, RMSE 0.70 | [cases/openbind](cases/openbind) |
+| Emerald Bay Drug Sensitivity | Cell-line × drug growth rate | Mean R² 0.44, Pearson 0.69 | [cases/emeraldbay](cases/emeraldbay) |
 
 ## Repository Layout
 
 ```text
 cases/
   openbind/          # First case: OpenBind EV-A71 2A affinity prediction
+  emeraldbay/        # Emerald Bay drug sensitivity prediction
 ```
 
 Each case directory contains its own README, predictor code, benchmark harness, dependencies, and figures.
