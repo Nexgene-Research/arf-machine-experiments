@@ -1,0 +1,7 @@
+gene	rare_gene_body_alleles_including_nonPASS	bounded_candidate_alleles	all_high_quality_hets_gene_100kb	phase_blocks	candidate_pairs	candidate_pairs_trans	candidate_pairs_cis	candidate_pairs_unknown	bounded_alleles_alt_read_supported	lowest_exon_flank_depth_ratio	interpretation
+BUB1B	4	15	187	35	4	0	0	4	13	0.7174	screen_only; trans only if in same phased block
+BUB1	2	0	25	2	6	0	0	6	2	0.6277	screen_only; trans only if in same phased block
+CEP57	1	0	16	1	0	0	0	0	1	0.6136	screen_only; trans only if in same phased block
+TRIP13	3	0	125	11	0	0	0	0	3	0.7045	screen_only; trans only if in same phased block
+CENATAC	0	0	36	7	0	0	0	0	0	0.7551	screen_only; trans only if in same phased block
+MAD1L1	26	0	1047	147	0	0	0	0	22	0.6939	screen_only; trans only if in same phased block

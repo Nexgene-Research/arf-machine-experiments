@@ -1,0 +1,3 @@
+caller	chrom	pos	ref	alt	end	svtype	filter	genes	breakpoint_genes
+delly	chr2	32916355	G	<INV>	110726745	INV	PASS	BUB1	BUB1
+delly	chr2	32916570	G	<DEL>	110726744	DEL	LowQual	BUB1	BUB1

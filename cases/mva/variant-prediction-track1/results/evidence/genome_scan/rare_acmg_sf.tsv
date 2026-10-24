@@ -1,0 +1,2 @@
+gene	rare_coding_het	rare_coding_hom	unqueried_coding_het	note
+TTN	1	0	0	P/LP gene-level is in clinvar_plp_genes.tsv; this is not a returnable SF call

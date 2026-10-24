@@ -1,0 +1,10 @@
+metric	count	note
+clinvar_records_with_clnsig	4348689	ClinVar GRCh38 after chr prefix; alt contigs dropped
+proband_exact_overlap	43945	same chrom,pos,ref,alt
+clinvar_plp_alleles	6	CLNSIG Pathogenic or Likely_pathogenic, not conflicting
+clinvar_plp_hom	0	P/LP with GT 1/1
+clinvar_plp_genes	6	distinct gene symbols
+clinvar_plp_tier1_alleles	1	P/LP inside six MVA genes
+clinvar_plp_acmg_sf_alleles	0	P/LP whose gene is on ACMG SF v3.2
+clinvar_conflicting	176	not counted as P/LP
+original_with_clinvar_clnsig_nonempty	0	bcftools annotate did not join: ClinVar CHROM=15 vs proband CHROM=chr15

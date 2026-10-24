@@ -1,0 +1,29 @@
+arm	item	value	note
+hpo_weight_permutation	observed_top	BUB1B	angle_B weighted coverage
+hpo_weight_permutation	permutations	100	seed=20261017
+hpo_weight_permutation	times_top_changes	17	other gene outranks BUB1B
+hpo_weight_permutation	times_rank1_BUB1B	83	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_TRIP13	17	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_CEP57	0	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_DICER1	0	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_MAD1L1	0	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_TP53	0	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_CENATAC	0	weight permutation of seven HPO terms; not a genome-wide null
+hpo_weight_permutation	times_rank1_BUB1	0	weight permutation of seven HPO terms; not a genome-wide null
+hg002_truth_vcf	pass_autosome_alleles	4048342	GIAB v4.2.1 chr1-22 truth VCF; not a clinical gVCF
+hg002_truth_vcf	pass_autosome_snv	3458690	truth SNV
+hg002_truth_vcf	pass_autosome_indel	589652	truth indel
+hg002_truth_vcf	six_gene_span_alleles	657	same six-gene windows as ranking; annotation not re-run
+hg002_truth_vcf	finalist_in_truth	0	BUB1B p.Leu737Ter / p.Asn1002Lys are not GIAB truth alleles
+hg002_truth_vcf	BUB1_snv	1	truth SNV in gene span
+hg002_truth_vcf	BUB1_indel	3	truth indel in gene span
+hg002_truth_vcf	BUB1B_snv	48	truth SNV in gene span
+hg002_truth_vcf	BUB1B_indel	9	truth indel in gene span
+hg002_truth_vcf	CENATAC_snv	2	truth SNV in gene span
+hg002_truth_vcf	CENATAC_indel	5	truth indel in gene span
+hg002_truth_vcf	CEP57_snv	67	truth SNV in gene span
+hg002_truth_vcf	CEP57_indel	16	truth indel in gene span
+hg002_truth_vcf	MAD1L1_snv	458	truth SNV in gene span
+hg002_truth_vcf	MAD1L1_indel	47	truth indel in gene span
+hg002_truth_vcf	TRIP13_snv	1	truth SNV in gene span
+hg002_truth_vcf	TRIP13_indel	0	truth indel in gene span

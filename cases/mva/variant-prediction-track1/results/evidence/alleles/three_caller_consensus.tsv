@@ -1,0 +1,3 @@
+gene	hgvs_p	chrom	pos	ref	alt	support_n	support_callers	status	deepvariant_filter	deepvariant_gt	gatk_filter	gatk_gt	strelka_filter	strelka_gt	note
+BUB1B	p.Leu737Ter	chr15	40209701	T	G	2	deepvariant,strelka	CONSENSUS	PASS	0/1	.	0/1	PASS	0/1	GATK genotype is 0/1; FILTER is missing because raw HaplotypeCaller output was not VQSR-filtered and is not counted as a vote
+BUB1B	p.Asn1002Lys	chr15	40220612	T	G	2	deepvariant,strelka	CONSENSUS	PASS	0/1	.	0/1	PASS	0/1	GATK genotype is 0/1; FILTER is missing because raw HaplotypeCaller output was not VQSR-filtered and is not counted as a vote

@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	source	reason
+chr15	40117088	G	A	BUB1B	10.1073/pnas.1317008111;GenCC SGC-105573.2 GRCh38 NC_000015.10:g.40117088G>A	Published upstream BUB1B regulatory allele; read-genotype and assess trans coding second hit; source ss identifier conflict
+chr2	110677994	A	C	BUB1	10.1126/sciadv.abk0114;NM_004336.5:c.2T>G;Folklore GRCh38 resolution 2026-10-16	Read-level published-site check; BUB1 MCPH30 phenotype overlap, not proven canonical MVA
+chr5	914504	C	T	TRIP13	Yost 2017 DOI:10.1038/ng.3883; ClinVar VCV000431045.1	Literature exact homozygous stop-gain SNV; test genotype only; do not assume private presence
+chr5	907987	G	C	TRIP13	Yost 2017 DOI:10.1038/ng.3883; ClinVar VCV000431046.1	Literature exact homozygous splice-site SNV per Supplementary Figure 1 and ClinVar; manuscript text/table HGVS discordant; test genotype only

@@ -1,0 +1,2 @@
+label	chrom	pos	ref	alt	gene	gt	filter	clinvar	clinvar_class	clinvar_stars	clinvar_gene	note
+BUB1B_p.Leu737Ter	chr15	40209701	T	G	BUB1B	0/1	PASS	Pathogenic/Likely_pathogenic	P/LP	2	BUB1B	joined on chr-prefixed CHROM+POS+REF+ALT; not a causal claim

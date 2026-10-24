@@ -1,0 +1,3 @@
+grch38_allele	public_record	aggregate_clinsig	aggregate_stars	condition_specific_status	last_evaluated	submitters	criterion_limit	source_url
+chr15:40209701:T:G	VCV000533901.9	P/LP	2	RCV000641226.9 MVA1 P one-star; RCV003324778.1 condition not provided LP one-star	2024-10-09	Labcorp/Invitae;GeneDx	none asserted: published PMID citations relate to BUB1B loss of function, not necessarily this exact allele; quality warning for gnomAD site	https://www.ncbi.nlm.nih.gov/clinvar/variation/533901/
+chr15:40220612:T:G	not found in public MyVariant ClinVar mirror	unresolved	unresolved	no exact submission verified by this targeted mirror query; not proof of absence			do not apply PS1/PM3	https://myvariant.info/v1/variant/chr15:g.40220612T%3EG?assembly=hg38&fields=clinvar

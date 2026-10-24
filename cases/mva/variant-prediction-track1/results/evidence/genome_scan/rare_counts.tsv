@@ -1,0 +1,9 @@
+metric	count	note
+rare_af_le_0.01_coding_het	534	HIGH/MODERATE; AF observed and <=0.01
+rare_af_le_0.01_coding_hom	19	HIGH/MODERATE; AF observed and <=0.01
+unqueried_coding_het	0	HIGH/MODERATE het with no AF tag; not rare
+unqueried_coding_hom	0	HIGH/MODERATE hom with no AF tag; not rare
+genes_two_plus_rare_coding_het	37	count of genes, not a coordinate dump
+genes_two_plus_unqueried_coding_het	0	do not treat as rare compound-het genes
+genes_rare_coding_hom	9	genes with at least one rare HIGH/MODERATE hom
+tier1_genes_two_plus_rare_het	1	BUB1B

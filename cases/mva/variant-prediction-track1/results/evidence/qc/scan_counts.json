@@ -1,0 +1,22 @@
+{
+  "dropped_contig": 73116,
+  "genes_rare_coding_hom": 9,
+  "genes_two_plus_rare_coding_het": 37,
+  "genes_two_plus_unqueried_coding_het": 0,
+  "het": 3079630,
+  "het_vaf_missing": 95,
+  "het_vaf_ok": 2776563,
+  "het_vaf_out": 302972,
+  "het_vaf_out_pass": 219823,
+  "hom": 1882430,
+  "hom_vaf_low": 2268,
+  "hom_vaf_low_pass": 1746,
+  "hom_vaf_missing": 218,
+  "hom_vaf_ok": 1879944,
+  "keys_impact_het": 7948,
+  "pass": 4727745,
+  "rare_coding_het": 534,
+  "rare_coding_hom": 19,
+  "records": 5035176,
+  "tier1_genes_two_plus_rare_het": 1
+}

@@ -1,0 +1,42 @@
+source	date	query	outcome
+literature.search	2026-10-16	BUB1B	one gene; discovery
+literature.search	2026-10-16	BUB1	one gene; discovery
+literature.search	2026-10-16	TRIP13	one gene; discovery
+literature.search	2026-10-16	CEP57	one gene; discovery
+literature.search	2026-10-16	MAD1L1	one gene; discovery
+literature.search	2026-10-16	CENATAC	one gene; discovery
+literature.read	2026-10-16	10.1038/ng1449	abstract unavailable; no full text
+literature.read	2026-10-16	10.1073/pnas.1317008111	abstract only; publisher 403
+literature.read	2026-10-16	10.1126/sciadv.abk0114	abstract only; publisher 403
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC8769543/	primary full-text HTML
+literature.read	2026-10-16	10.1038/ng.3883	primary full-text PMC HTML
+literature.read	2026-10-16	10.1126/sciadv.abq5914	publisher landing page only
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC9629740/	primary full-text HTML
+literature.read	2026-10-16	10.15252/embj.2020106536	publisher landing page only
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC8280824/	primary full-text HTML
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC4139549/	unrelated paper; not cited
+literature.read	2026-10-16	10.1038/ng.822	primary PDF full text
+literature.read	2026-10-16	10.1172/JCI126863	abstract only; publisher 503
+literature.read	2026-10-16	10.1056/NEJMoa1006565	abstract only
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC8769543/	second passage retrieval; primary full-text HTML
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC9629740/	second passage retrieval; primary full-text HTML
+literature.read	2026-10-16	https://pmc.ncbi.nlm.nih.gov/articles/PMC8280824/	second passage retrieval; primary full-text HTML
+query_uniprot	2026-10-16	BUB1B	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	BUB1	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	O60566	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	CEP57	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	TRIP13	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	CENATAC	one accession or gene; note broad gene-query false hits
+query_uniprot	2026-10-16	MAD1L1	one accession or gene; note broad gene-query false hits
+exa_web_search_exa	2026-10-16	chr15-40220612-T-G	irrelevant hits; exact match unconfirmed
+exa_web_search_exa	2026-10-16	chr15-40209701-T-G	irrelevant hits; exact match unconfirmed
+exa_web_search_exa	2026-10-16	chr2-110668376-C-T	irrelevant hits; exact match unconfirmed
+AlleleRegistry	2026-10-16	NC_000015.10:g.40220612T>G	MANE Select NM_001211.6:c.3006T>G, p.Asn1002Lys
+AlleleRegistry	2026-10-16	NC_000015.10:g.40209701T>G	MANE Select NM_001211.6:c.2210T>G, p.Leu737Ter
+Exa	2026-10-16	chr15:40220612:T:G	allele registry result; unrelated exact-site hits ignored
+MyVariant	2026-10-16	chr15:g.40220612T>G	ClinVar mirror field missing; no negative inference
+MyVariant	2026-10-16	chr15:g.40209701T>G	VCV000533901 mirror found, direct ClinVar verification followed
+ClinVar	2026-10-16	VCV000533901.9	aggregate P/LP 2-star; disease-specific P one-star
+MyVariant	2026-10-16	chr15:g.40216470A>G	404 from exact mirror endpoint; no inference of database absence
+MyVariant	2026-10-16	chr2:g.110668376C>T	ClinVar field missing; not a negative classification
+MyVariant	2026-10-16	chr2:g.110671177G>A	ClinVar field missing; not a negative classification

@@ -1,0 +1,12 @@
+metric	count	note
+records	5035176	primary contigs after dropping symbolic alleles
+het	3079630	GT 0/1 or 1/0
+hom	1882430	GT 1/1
+het_vaf_ok	2776563	het VAF inside 0.25-0.75
+het_vaf_out	302972	het VAF <0.25 or >0.75
+het_vaf_out_pass	219823	same, FILTER=PASS
+het_vaf_missing	95	het without usable AD
+hom_vaf_ok	1879944	hom VAF >=0.85
+hom_vaf_low	2268	hom VAF <0.85
+hom_vaf_low_pass	1746	same, FILTER=PASS
+hom_vaf_missing	218	hom without usable AD

@@ -1,0 +1,16 @@
+gene	grch38_key	source_gt	recall_gt	caller_relation	source_DP	recall_DP	read_alt_MQ60_BQ20
+BUB1B	chr15-40168264-G-A	0/1	0/1	concordant	48		20
+BUB1B	chr15-40180642-CT-C	0/1	not_called	discordant_or_not_called	13		3
+BUB1B	chr15-40181093-AT-A	0/1	not_called	discordant_or_not_called	35		19
+BUB1B	chr15-40182809-A-C	0/1	0/1	concordant	26		13
+BUB1B	chr15-40186692-G-A	1/1	1/1	concordant	41		39
+BUB1B	chr15-40187404-A-G	1/1	1/1	concordant	47		46
+BUB1B	chr15-40192892-C-T	0/1	0/1	concordant	40		25
+BUB1B	chr15-40193435-T-C	1/1	1/1	concordant	42		47
+BUB1B	chr15-40198239-G-GT	1/1	not_called	discordant_or_not_called	36		35
+BUB1B	chr15-40209701-T-G	0/1	0/1	concordant	46		26
+BUB1B	chr15-40216470-A-G	0/1	0/1	concordant	46		17
+BUB1B	chr15-40216568-TA-T	1/1	not_called	discordant_or_not_called	26		0
+BUB1B	chr15-40216570-TA-T	1/1	not_called	discordant_or_not_called	26		0
+BUB1B	chr15-40220612-T-G	0/1	0/1	concordant	28		13
+BUB1B	chr15-40221421-G-C	0/1	0/1	concordant	38		14

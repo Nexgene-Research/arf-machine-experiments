@@ -1,0 +1,7 @@
+tool	version	source
+python	3.12	project venv
+bcftools	1.24	MN5 container
+WhatsHap	2.8	MN5 container
+samtools	1.23.1	MN5 module
+intel	2023.2.0	MN5 module
+singularity	4.1.5	MN5 module

@@ -1,0 +1,26 @@
+{
+  "utc": "2026-10-16T00:25:28.715119+00:00",
+  "script": "F:\\data\\mva-real\\scripts\\mn5\\l4_full_summary.py",
+  "interpreter": "F:\\data\\mva-real\\env\\venv\\Scripts\\python.exe",
+  "source": "F:\\data\\mva-real\\mn5_out\\l4_full_somalier_47355695\\fingerprint.samples.tsv",
+  "source_sha256": "bcbd1565ee4d75d034a7f15976e000138356aad85be9b7448330aa46041d9ff1",
+  "source_remote_sha256": "bcbd1565ee4d75d034a7f15976e000138356aad85be9b7448330aa46041d9ff1",
+  "slurm_accounting": "47355695|COMPLETED|0:0|51|8|16",
+  "summary_samples": 1,
+  "metrics": {
+    "sex": -9,
+    "gt_depth_mean": 44.9,
+    "n_hom_ref": 6662,
+    "n_het": 6769,
+    "n_hom_alt": 3570,
+    "n_unknown": 383,
+    "contamination_charr": 0.008309,
+    "contamination_charr_n_sites": 10501,
+    "X_depth_mean": 22.07,
+    "X_n": 348,
+    "Y_depth_mean": 19.27,
+    "Y_n": 15
+  },
+  "limitations": "Singleton somalier; sex=-9 is unassigned, X/Y depths are fingerprint-site averages rather than chromosome-wide measurements. contamination_charr is a QC flag, not a validated contamination estimate; retain digest only on MN5.",
+  "verification_exit_code": 0
+}

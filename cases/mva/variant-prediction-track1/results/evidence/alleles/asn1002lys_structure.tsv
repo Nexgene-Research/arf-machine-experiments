@@ -1,0 +1,19 @@
+structure	chain	residue_number	residue_in_structure	expected_wt	mutation	covers_asn1002	thermoMPNN	esm1v	boltz2	note
+2WU6.pdb	A	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+3SI5.pdb	A	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+3SI5.pdb	B	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+3SI5.pdb	X	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+3SI5.pdb	Y	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	A	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	B	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	C	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	D	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	E	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	F	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	G	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	H	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4AEZ.pdb	I	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4GGD.pdb	A	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4GGD.pdb	B	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4GGD.pdb	C	1002		N	N1002K	no				residue absent or not asparagine; no score invented
+4GGD.pdb	D	1002		N	N1002K	no				residue absent or not asparagine; no score invented

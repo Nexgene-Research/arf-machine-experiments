@@ -1,0 +1,38 @@
+{
+  "utc": "2026-10-16T00:27:15.714560+00:00",
+  "script": "F:\\data\\mva-real\\scripts\\mn5\\l4_full_collect_mosdepth.py",
+  "interpreter": "F:\\data\\mva-real\\env\\venv\\Scripts\\python.exe",
+  "slurm_id": 47355682,
+  "steps": {
+    "remote_checks": {
+      "exit_code": 0,
+      "stdout": "8ed6ca04258edf759d3a6d9b1969cc67878b60c0451c41f7bc0c207ddb30e67b  $MVA_BASE/out/l4_full_qc/mosdepth_47355682/genome_100kb.mosdepth.summary.txt\n43a66ed8493dd31b000506d56e2c4c789b7ee3aa72b37dce92cb30abe058c85b  $MVA_BASE/out/l4_full_qc/mosdepth_47355682/genome_100kb.regions.bed.gz\n9aa67d34338b10761418ee8d933c41f5189342b1111571ef6a91c4ad5c982e34  $MVA_BASE/out/l4_full_qc/mosdepth_47355682/sex_ploidy_depth_screen.json\n17924\n206823\n1916\n47355682|COMPLETED|0:0|195|12|24\n",
+      "stderr": "load bsc/1.0 (PATH, MANPATH)\n"
+    },
+    "sftp_aggregates_only": {
+      "exit_code": 0,
+      "stdout": "sftp> get \"$MVA_BASE/out/l4_full_qc/mosdepth_47355682/genome_100kb.mosdepth.summary.txt\" \"F:/data/mva-real/mn5_out/l4_full_mosdepth_47355682/genome_100kb.mosdepth.summary.txt\"\nsftp> get \"$MVA_BASE/out/l4_full_qc/mosdepth_47355682/genome_100kb.regions.bed.gz\" \"F:/data/mva-real/mn5_out/l4_full_mosdepth_47355682/genome_100kb.regions.bed.gz\"\nsftp> get \"$MVA_BASE/out/l4_full_qc/mosdepth_47355682/sex_ploidy_depth_screen.json\" \"F:/data/mva-real/mn5_out/l4_full_mosdepth_47355682/sex_ploidy_depth_screen.json\"\n",
+      "stderr": ""
+    }
+  },
+  "files": {
+    "genome_100kb.mosdepth.summary.txt": {
+      "remote_sha256": "8ed6ca04258edf759d3a6d9b1969cc67878b60c0451c41f7bc0c207ddb30e67b",
+      "size_bytes": 17924,
+      "local_sha256": "8ed6ca04258edf759d3a6d9b1969cc67878b60c0451c41f7bc0c207ddb30e67b"
+    },
+    "genome_100kb.regions.bed.gz": {
+      "remote_sha256": "43a66ed8493dd31b000506d56e2c4c789b7ee3aa72b37dce92cb30abe058c85b",
+      "size_bytes": 206823,
+      "local_sha256": "43a66ed8493dd31b000506d56e2c4c789b7ee3aa72b37dce92cb30abe058c85b"
+    },
+    "sex_ploidy_depth_screen.json": {
+      "remote_sha256": "9aa67d34338b10761418ee8d933c41f5189342b1111571ef6a91c4ad5c982e34",
+      "size_bytes": 1916,
+      "local_sha256": "9aa67d34338b10761418ee8d933c41f5189342b1111571ef6a91c4ad5c982e34"
+    }
+  },
+  "accounting": "47355682|COMPLETED|0:0|195|12|24",
+  "bin_count": 31136,
+  "verified": true
+}

@@ -1,0 +1,11 @@
+pair_id	gene	variant_1	variant_2	epcr	epcr_status	rank
+BUB1:chr2-110668376-C-T;chr2-110671177-G-A	BUB1	chr2-110668376-C-T	chr2-110671177-G-A	0.1	provisional_v1_reconstructed	1
+BUB1B:chr15-40209701-T-G;chr15-40216470-A-G	BUB1B	chr15-40209701-T-G	chr15-40216470-A-G	0.1	provisional_v1_reconstructed	2
+BUB1B:chr15-40209701-T-G;chr15-40220612-T-G	BUB1B	chr15-40209701-T-G	chr15-40220612-T-G	0.1	provisional_v1_reconstructed	3
+BUB1B:chr15-40216470-A-G;chr15-40220612-T-G	BUB1B	chr15-40216470-A-G	chr15-40220612-T-G	0.1	provisional_v1_reconstructed	4
+BUB1:chr2-110651114-T-C;chr2-110668376-C-T	BUB1	chr2-110651114-T-C	chr2-110668376-C-T	0.0938628	provisional_v1_reconstructed	5
+BUB1:chr2-110651114-T-C;chr2-110671177-G-A	BUB1	chr2-110651114-T-C	chr2-110671177-G-A	0.0938628	provisional_v1_reconstructed	6
+BUB1:chr2-110668376-C-T;chr2-110682617-G-C	BUB1	chr2-110668376-C-T	chr2-110682617-G-C	0.0938628	provisional_v1_reconstructed	7
+BUB1B:chr15-40157240-G-A;chr15-40209701-T-G	BUB1B	chr15-40157240-G-A	chr15-40209701-T-G	0.0938628	provisional_v1_reconstructed	8
+BUB1:chr2-110651114-T-C;chr2-110682617-G-C	BUB1	chr2-110651114-T-C	chr2-110682617-G-C	0.0938628	provisional_v1_reconstructed	9
+BUB1:chr2-110668376-C-T;chr2-110681551-C-T	BUB1	chr2-110668376-C-T	chr2-110681551-C-T	0.0938628	provisional_v1_reconstructed	10

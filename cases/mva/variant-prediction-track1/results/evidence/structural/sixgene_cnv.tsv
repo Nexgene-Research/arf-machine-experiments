@@ -1,0 +1,7 @@
+gene	chrom	start	end	mean_depth	ratio_to_sixgene_median	call	note
+BUB1	chr2	110635528	110680063	45.2600	1.0000	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim
+TRIP13	chr5	890884	920120	37.4400	0.8272	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim
+MAD1L1	chr7	1813795	2234945	43.0700	0.9516	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim
+CEP57	chr11	95788498	95834693	41.1700	0.9096	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim
+CENATAC	chr11	118996138	119017793	50.3800	1.1131	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim
+BUB1B	chr15	40159069	40223123	46.2500	1.0219	diploid_compatible	single-sample mosdepth MAPQ20 gene-body+/-2kb; not Canvas/gCNV panel; not a causal claim

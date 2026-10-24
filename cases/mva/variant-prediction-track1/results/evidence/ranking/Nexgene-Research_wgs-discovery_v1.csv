@@ -1,0 +1,11 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+PROBAND01,chr2,110668376,C,T,chr2,110671177,G,A,0.1,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=yes;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr15,40209701,T,G,chr15,40216470,A,G,0.1,primary,gene=BUB1B;hypothesis=compound_het;phase=unknown;capped=yes;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr15,40209701,T,G,chr15,40220612,T,G,0.1,primary,gene=BUB1B;hypothesis=compound_het;phase=unknown;capped=yes;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr15,40216470,A,G,chr15,40220612,T,G,0.1,primary,gene=BUB1B;hypothesis=compound_het;phase=unknown;capped=yes;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr2,110651114,T,C,chr2,110668376,C,T,0.0938628,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr2,110651114,T,C,chr2,110671177,G,A,0.0938628,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr2,110668376,C,T,chr2,110682617,G,C,0.0938628,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr15,40157240,G,A,chr15,40209701,T,G,0.0938628,primary,gene=BUB1B;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr2,110651114,T,C,chr2,110682617,G,C,0.0938628,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr
+PROBAND01,chr2,110668376,C,T,chr2,110681551,C,T,0.0938628,primary,gene=BUB1;hypothesis=compound_het;phase=unknown;capped=no;reads_ok=yes;prior=0.1;heuristic_epcr

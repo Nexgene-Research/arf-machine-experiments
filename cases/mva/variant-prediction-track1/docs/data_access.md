@@ -1,0 +1,7 @@
+# Authorised data access and safe reproducibility
+
+Input: gated single-patient data, restricted by the [official hackathon rules](https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026/raw/main/tabs/rules.py). Reproduction requires separate authorised access to the same FASTQ, source VCF and clinical context. This release does not grant that access. FASTQ/BAM/VCF, raw reads, clinical DOCX, genome-wide patient tables, credentials and MN5 connection identifiers are excluded from the release. Public database requests contain only a gene symbol or one public variant notation, never case context.
+
+Project source data under `data/` remain read-only. MN5 input/output hash receipts are cited in Appendix A of the report and in `docs/lineage.md`; compare hashes without publishing underlying restricted genomes. The case summary and aggregate evidence included in the contest submission are released subject to organiser conditions.
+
+The official rules require participants to delete restricted source data and intermediate or derived patient data from their environments within 30 days of hackathon close and to notify the organisers. This repository follows that commitment: controlled source files and all derived patient copies will be deleted within that window and the organisers will be notified. Consult the rules for current instructions before distributing any additional case-level output. The restricted files are **not** included in this repository.

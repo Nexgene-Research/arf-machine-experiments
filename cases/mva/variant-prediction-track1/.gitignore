@@ -1,0 +1,10 @@
+*.vcf*
+*.bam*
+*.cram*
+*.fastq*
+*.fq*
+*.docx
+*.key
+*.pem
+.env
+__pycache__/

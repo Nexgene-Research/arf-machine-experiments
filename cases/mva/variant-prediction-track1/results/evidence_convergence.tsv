@@ -1,0 +1,89 @@
+candidate	dimension	status	independent_primary_source_count	independent_primary_source_ids
+BUB1B	variant_level	missing	0	
+BUB1B	gene_disease	supports	1	10.1073/pnas.1317008111
+BUB1B	published_cases	missing	0	
+BUB1B	protein_structure	missing	0	
+BUB1B	constraint_conservation	missing	0	
+BUB1B	functional_model	supports	2	10.1073/pnas.1317008111;10.1172/JCI126863
+BUB1B	phenotype_concordance	supports	0	
+BUB1B	competing_explanations	missing	0	
+CEP57	variant_level	missing	0	
+CEP57	gene_disease	supports	1	10.1038/ng.822
+CEP57	published_cases	supports	1	10.1038/ng.822
+CEP57	protein_structure	missing	0	
+CEP57	constraint_conservation	missing	0	
+CEP57	functional_model	supports	1	10.1038/ng.822
+CEP57	phenotype_concordance	supports	1	10.1038/ng.822
+CEP57	competing_explanations	missing	0	
+TRIP13	variant_level	missing	0	
+TRIP13	gene_disease	supports	1	10.1038/ng.3883
+TRIP13	published_cases	supports	1	10.1038/ng.3883
+TRIP13	protein_structure	missing	0	
+TRIP13	constraint_conservation	missing	0	
+TRIP13	functional_model	supports	1	10.1038/ng.3883
+TRIP13	phenotype_concordance	missing	0	
+TRIP13	competing_explanations	missing	0	
+CENATAC	variant_level	missing	0	
+CENATAC	gene_disease	supports	1	10.15252/embj.2020106536
+CENATAC	published_cases	supports	1	10.15252/embj.2020106536
+CENATAC	protein_structure	missing	0	
+CENATAC	constraint_conservation	missing	0	
+CENATAC	functional_model	supports	1	10.15252/embj.2020106536
+CENATAC	phenotype_concordance	missing	0	
+CENATAC	competing_explanations	missing	0	
+MAD1L1	variant_level	missing	0	
+MAD1L1	gene_disease	supports	1	10.1126/sciadv.abq5914
+MAD1L1	published_cases	supports	1	10.1126/sciadv.abq5914
+MAD1L1	protein_structure	missing	0	
+MAD1L1	constraint_conservation	missing	0	
+MAD1L1	functional_model	missing	0	
+MAD1L1	phenotype_concordance	supports	1	10.1126/sciadv.abq5914
+MAD1L1	competing_explanations	missing	0	
+BUB1	variant_level	missing	0	
+BUB1	gene_disease	supports	1	10.1126/sciadv.abk0114
+BUB1	published_cases	missing	0	
+BUB1	protein_structure	missing	0	
+BUB1	constraint_conservation	missing	0	
+BUB1	functional_model	against	1	10.1126/sciadv.abk0114
+BUB1	phenotype_concordance	missing	0	
+BUB1	competing_explanations	missing	0	
+BUB1B chr15:40209701:T:G	variant_level	missing	0	
+BUB1B chr15:40209701:T:G	gene_disease	supports	0	
+BUB1B chr15:40209701:T:G	published_cases	missing	0	
+BUB1B chr15:40209701:T:G	protein_structure	missing	0	
+BUB1B chr15:40209701:T:G	constraint_conservation	missing	0	
+BUB1B chr15:40209701:T:G	functional_model	missing	0	
+BUB1B chr15:40209701:T:G	phenotype_concordance	missing	0	
+BUB1B chr15:40209701:T:G	competing_explanations	missing	0	
+BUB1B chr15:40216470:A:G	variant_level	missing	0	
+BUB1B chr15:40216470:A:G	gene_disease	missing	0	
+BUB1B chr15:40216470:A:G	published_cases	missing	0	
+BUB1B chr15:40216470:A:G	protein_structure	missing	0	
+BUB1B chr15:40216470:A:G	constraint_conservation	missing	0	
+BUB1B chr15:40216470:A:G	functional_model	missing	0	
+BUB1B chr15:40216470:A:G	phenotype_concordance	missing	0	
+BUB1B chr15:40216470:A:G	competing_explanations	missing	0	
+BUB1B chr15:40220612:T:G	variant_level	missing	0	
+BUB1B chr15:40220612:T:G	gene_disease	missing	0	
+BUB1B chr15:40220612:T:G	published_cases	missing	0	
+BUB1B chr15:40220612:T:G	protein_structure	missing	0	
+BUB1B chr15:40220612:T:G	constraint_conservation	missing	0	
+BUB1B chr15:40220612:T:G	functional_model	missing	0	
+BUB1B chr15:40220612:T:G	phenotype_concordance	missing	0	
+BUB1B chr15:40220612:T:G	competing_explanations	missing	0	
+BUB1 chr2:110668376:C:T	variant_level	missing	0	
+BUB1 chr2:110668376:C:T	gene_disease	missing	0	
+BUB1 chr2:110668376:C:T	published_cases	missing	0	
+BUB1 chr2:110668376:C:T	protein_structure	missing	0	
+BUB1 chr2:110668376:C:T	constraint_conservation	missing	0	
+BUB1 chr2:110668376:C:T	functional_model	missing	0	
+BUB1 chr2:110668376:C:T	phenotype_concordance	missing	0	
+BUB1 chr2:110668376:C:T	competing_explanations	missing	0	
+BUB1 chr2:110671177:G:A	variant_level	missing	0	
+BUB1 chr2:110671177:G:A	gene_disease	missing	0	
+BUB1 chr2:110671177:G:A	published_cases	missing	0	
+BUB1 chr2:110671177:G:A	protein_structure	missing	0	
+BUB1 chr2:110671177:G:A	constraint_conservation	missing	0	
+BUB1 chr2:110671177:G:A	functional_model	missing	0	
+BUB1 chr2:110671177:G:A	phenotype_concordance	missing	0	
+BUB1 chr2:110671177:G:A	competing_explanations	missing	0	

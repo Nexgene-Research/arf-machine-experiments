@@ -1,0 +1,3 @@
+allele	reported_blocks_overlapping_allele	v1_p_path	v1_criteria	lr1_only_p_path	unknown_phase_assumption	lr1_only_pair_heuristic	v1_pair_q	v1_csv_epcr	interpretation
+chr15:40209701	0	0.997133	PVS1:very_strong,PM2:moderate,PP4:supporting	stop consequence review pending	0.5	0.05	0.24922	0.1	provisional CSV has unsupported PM2-moderate and PP4; eligibility fails regardless of score
+chr15:40220612	0	0.49844	PM2:moderate,PP4:supporting	0.1	0.5	0.05	0.24922	0.1	provisional CSV has unsupported PM2-moderate and PP4; eligibility fails regardless of score

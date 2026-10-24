@@ -1,0 +1,11 @@
+{
+  "c_stop": 2210,
+  "c_missense": 3006,
+  "cds_length": 3153,
+  "last_junction_c": 2957,
+  "ptc_to_last_junction_nt": 747,
+  "stop_exon": 17,
+  "missense_exon": 23,
+  "exon_count": 23,
+  "span_bp": 10911
+}

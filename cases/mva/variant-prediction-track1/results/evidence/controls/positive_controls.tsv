@@ -1,0 +1,8 @@
+label	chrom	pos	ref	alt	status	rank_note
+Ochiai2014_BUB1B	chr15	40117088	G	A	spike_failed	addsnv_coverdiff_or_remap
+Carvalhal2022_BUB1	chr2	110677994	A	C	spike_failed	addsnv_coverdiff_or_remap
+Yost2017_TRIP13_R354X	chr5	914504	C	T	spike_failed	addsnv_coverdiff_or_remap
+Yost2017_TRIP13_splice	chr5	907987	G	C	spike_failed	addsnv_coverdiff_or_remap
+CEP57	.	.	.	.	unresolved	source_cDNA_not_mapped_to_GRCh38
+CENATAC	.	.	.	.	unresolved	source_cDNA_not_mapped_to_GRCh38
+MAD1L1	.	.	.	.	unresolved	source_cDNA_not_mapped_to_GRCh38

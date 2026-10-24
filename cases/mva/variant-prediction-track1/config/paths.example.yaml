@@ -1,0 +1,14 @@
+# Edit these authorised paths on your own installation; never commit controlled genomes.
+source_fastqs: /authorized/data/lanes/*.fastq.gz
+source_vcf: /authorized/data/input.vcf.gz
+reference_grch38: /authorized/ref/GRCh38_no_alt.fa
+mn5_work: /authorized/mn5/work
+project_venv: /authorized/python.exe
+# MareNostrum 5 batch scripts do not hard-code a user work directory. Export
+# MVA_BASE to the cluster work root before sbatch (required; there is no default):
+#   export MVA_BASE=/authorized/mn5/work
+# For the gnomAD fastpath job, also export the organiser VCF:
+#   export MVA_SOURCE_VCF=/authorized/data/input.vcf.gz
+# Remote queue queries use $USER. Optional SSH login for dispatch scripts:
+#   export MVA_SSH_LOGIN=user@login-host
+

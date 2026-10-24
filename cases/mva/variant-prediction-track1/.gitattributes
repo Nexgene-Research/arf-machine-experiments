@@ -1,0 +1,3 @@
+# Store every file byte-for-byte: MANIFEST.sha256 and the SHA-256 values cited in
+# the report and MN5 receipts are digests of the exact bytes, line endings included.
+* -text

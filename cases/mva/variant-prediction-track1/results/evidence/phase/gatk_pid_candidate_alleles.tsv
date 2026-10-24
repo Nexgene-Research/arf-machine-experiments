@@ -1,0 +1,2 @@
+allele_a	allele_b	a_pid	b_pid	a_pgt	b_pgt	pid_status	caller_phase	note
+BUB1B_p.Leu737Ter	BUB1B_p.Asn1002Lys	.	.	.	.	different_or_missing_pid	unknown	GATK PID/PGT only; WhatsHap remains unknown; not a causal claim

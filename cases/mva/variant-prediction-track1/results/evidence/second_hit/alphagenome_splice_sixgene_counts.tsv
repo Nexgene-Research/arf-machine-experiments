@@ -1,0 +1,7 @@
+gene	proband_snv_in_window	scored	missing	ge_local_p95	ge_local_p99	local_p95	local_p99	note
+BUB1B	2	2	0	0	0	1.063	3.337	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used
+CEP57	0	0	0	0	0	0.7604	3.568	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used
+TRIP13	0	0	0	0	0	0.9906	3.265	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used
+CENATAC	1	1	0	0	0	1.45	3.364	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used
+MAD1L1	2	2	0	0	0	1.031	3.503	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used
+BUB1	0	0	0	0	0	1.337	3.431	background is all panel SNVs in coding+splice+/-20bp; SpliceAI not used

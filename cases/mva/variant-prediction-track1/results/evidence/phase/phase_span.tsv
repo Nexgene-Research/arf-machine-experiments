@@ -1,0 +1,2 @@
+chrom	pos_stop	pos_missense	distance_bp	short_read_spanning_possible	whatshap_status	note
+chr15	40209701	40220612	10911	no	unknown	10911 bp exceeds paired-end insert; no parent or long-read data

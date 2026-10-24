@@ -1,0 +1,11 @@
+gene	allele_1	allele_2	same_block	phase	block_start	block_end	block_span_bp	informative_fragments	link_type
+BUB1B	chr15-40209701-T-G	chr15-40216470-A-G	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1B	chr15-40209701-T-G	chr15-40220612-T-G	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1B	chr15-40216470-A-G	chr15-40220612-T-G	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1B	chr15-40157240-G-A	chr15-40209701-T-G	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110668376-C-T	chr2-110671177-G-A	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110651114-T-C	chr2-110668376-C-T	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110651114-T-C	chr2-110671177-G-A	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110668376-C-T	chr2-110682617-G-C	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110651114-T-C	chr2-110682617-G-C	false	unknown				not_reported_by_whatshap_VCF	none
+BUB1	chr2-110668376-C-T	chr2-110681551-C-T	false	unknown				not_reported_by_whatshap_VCF	none

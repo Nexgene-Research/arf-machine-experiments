@@ -1,0 +1,3 @@
+label	chrom	pos	ref	alt	gene	alphagenome_splicing	lookup_status	local_p95	local_p99	vs_background	note
+BUB1B_p.Leu737Ter	chr15	40209701	T	G	BUB1B	0.08699	exact_allele	1.063	3.337	below_p95	uncalibrated AlphaGenome splicing; missing is not benign; not a causal claim
+BUB1B_p.Asn1002Lys	chr15	40220612	T	G	BUB1B	0.04813	exact_allele	1.063	3.337	below_p95	uncalibrated AlphaGenome splicing; missing is not benign; not a causal claim

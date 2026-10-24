@@ -1,0 +1,65 @@
+Submissions and reports: Creative Commons Attribution 4.0 International (CC BY 4.0), subject to organizer terms.
+No new code license asserted: authorship and upstream licensing must be checked before relicensing copied tools or scripts. External reference data and software retain their original licenses and attributions. Restricted patient source data are not included.
+
+Third-party data, models and software
+=====================================
+
+This analysis used public resources and tools that keep their own licences.
+Verified 24 October 2026 from the upstream files or pages named below. Where
+a current licence file could not be retrieved, the entry says so and the
+upstream terms apply.
+
+Data and models
+
+- GRCh38 no-alt analysis set (NCBI / Genome Reference Consortium). United
+  States government work; publicly redistributable. See NCBI genome data
+  terms.
+- gnomAD allele frequencies (Broad Institute). Use is subject to the gnomAD
+  terms of use (https://gnomad.broadinstitute.org/terms). Redistribution of
+  the full dataset is not part of this repository.
+- ClinVar (NCBI). Public database; see NCBI ClinVar terms.
+- MANE Select transcripts (NCBI and EMBL-EBI). See Morales et al. 2022 and
+  the MANE project terms.
+- Human Phenotype Ontology. See the current HPO licence at
+  https://hpo.jax.org/ (upstream terms apply).
+- AlphaMissense code (Google DeepMind): Apache License 2.0
+  (https://github.com/google-deepmind/alphamissense/blob/main/LICENSE).
+  Variant-score tables used here remain under DeepMind's published data
+  terms; see upstream.
+- REVEL. See the authors' distribution terms (Ioannidis et al. 2016);
+  upstream terms apply.
+- AlphaGenome. Google DeepMind published terms; see upstream.
+- SpliceAI models: CC BY-NC 4.0 for academic and non-commercial use; source
+  code PolyForm Strict License 1.0.0
+  (https://github.com/Illumina/SpliceAI/blob/master/LICENSE).
+- PrimeKG repository: MIT License
+  (https://github.com/mims-harvard/PrimeKG/blob/main/LICENSE).
+- Genome in a Bottle (NIST). United States government work; publicly
+  redistributable. See NIST GIAB terms.
+
+Software
+
+- bwa-mem2: MIT License (https://github.com/bwa-mem2/bwa-mem2/blob/master/LICENSE).
+- samtools and bcftools: MIT/Expat License
+  (https://github.com/samtools/samtools/blob/develop/LICENSE).
+- GATK: Apache License 2.0
+  (https://github.com/broadinstitute/gatk/blob/master/LICENSE.TXT).
+- DeepVariant: BSD 3-Clause License
+  (https://github.com/google/deepvariant/blob/r1.6.1/LICENSE).
+- Strelka2 (Illumina). Licence file was not retrieved from the tagged
+  upstream tree on 24 October 2026; see upstream terms.
+- Manta: PolyForm Strict License 1.0.0
+  (https://github.com/Illumina/manta/blob/master/LICENSE.txt).
+- Delly: BSD 3-Clause License
+  (https://github.com/dellytools/delly/blob/main/LICENSE).
+- WhatsHap: MIT License (https://github.com/whatshap/whatshap/blob/main/LICENSE).
+- mosdepth: MIT License (https://github.com/brentp/mosdepth/blob/master/LICENSE).
+- somalier: MIT License (https://github.com/brentp/somalier/blob/master/LICENSE).
+- VerifyBamID2. Licence file was not retrieved from the upstream tree on
+  24 October 2026; see upstream terms.
+- snpEff: MIT License (https://github.com/pcingola/SnpEff/blob/master/LICENSE.md).
+- scripts/figstyle.py: adapted from alphaXiv OpenResearch (orx_figstyle.py),
+  MIT License.
+
+Use of these resources in this hackathon analysis does not change their
+licences and does not grant any extra rights in the restricted patient data.

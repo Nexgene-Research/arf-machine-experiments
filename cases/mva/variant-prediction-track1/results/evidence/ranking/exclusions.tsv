@@ -1,0 +1,18 @@
+gene	hypothesis_class	n	reason	submitted
+MAD1L1	compound_het	244650	combinatorial hets (mostly intron/UTR); no read/phase check; not in CSV	no
+SLC35A3	compound_het	lex_top10_pad	appeared in all-hypothesis 0.1 cap sort without pileup; excluded by read-supported filter D5	no
+MAN1A2	compound_het	lex_top10_pad	same as SLC35A3	no
+SRGAP2C	compound_het	lex_top10_pad	same as SLC35A3	no
+CENATAC	compound_het	1	single pair, not in read-checked top60	no
+CEP57	compound_het	3	not in read-checked top60	no
+TRIP13	compound_het	0	no passing same-gene het pair after GQ/AD filter	no
+CENATAC	homozygous	13	homozygous not pileuped in this pass	no
+CEP57	homozygous	2	homozygous not pileuped in this pass	no
+BUB1B	homozygous	7	homozygous not pileuped in this pass	no
+BUB1	homozygous	5	homozygous not pileuped in this pass	no
+MAD1L1	homozygous	201	homozygous not pileuped; combinatorial locus	no
+published_BUB1B_chr15_40117088	published_snv	1	pileup alt=0 on marked.bam	no
+published_BUB1_chr2_110677994	published_snv	1	pileup alt=0 on marked.bam	no
+published_TRIP13_chr5_914504	published_snv	1	pileup alt=0 on marked.bam	no
+published_TRIP13_chr5_907987	published_snv	1	pileup alt=0 on marked.bam	no
+non_tier1_het_pair_genes	compound_het	124	genes among 130 pair-genes that are not Tier-1; capped and unread except incidental lex hits	no

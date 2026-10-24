@@ -1,0 +1,7 @@
+gene	n_intervals	min_depth	median_depth	ratio_to_sixgene_median	note
+BUB1	27	27.35	46.42	1.021	mosdepth MAPQ20 exon mean; not a confirmed CNV
+BUB1B	25	34.03	42.91	0.944	mosdepth MAPQ20 exon mean; not a confirmed CNV
+CENATAC	13	37.03	46.78	1.029	mosdepth MAPQ20 exon mean; not a confirmed CNV
+CEP57	13	26.85	41.91	0.922	mosdepth MAPQ20 exon mean; not a confirmed CNV
+MAD1L1	21	31.73	47.59	1.047	mosdepth MAPQ20 exon mean; not a confirmed CNV
+TRIP13	15	30.42	43.52	0.957	mosdepth MAPQ20 exon mean; not a confirmed CNV

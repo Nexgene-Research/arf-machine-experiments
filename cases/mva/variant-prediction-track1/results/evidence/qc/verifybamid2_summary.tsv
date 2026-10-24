@@ -1,0 +1,5 @@
+metric	value	note
+snps	10000	1000G phase 3 10k GRCh38 SVD panel
+reads	424597	reads overlapping panel sites
+avg_depth	42.4639	mean depth at panel sites
+freemix	2.12024e-09	estimated contamination fraction; sample identifier removed

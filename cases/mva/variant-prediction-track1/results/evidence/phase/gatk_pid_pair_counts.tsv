@@ -1,0 +1,8 @@
+metric	count	note
+matched_high_moderate_hets	7825	intersection of GATK GT with scan keys
+with_pid	1247	FORMAT/PID present
+without_pid	6578	unphased by the caller
+gene_pid_blocks_ge2	333	same PID, same gene, >=2 hets
+cis_pairs	1077	same PGT haplotype; caller label only
+trans_pairs	70	opposite PGT haplotype; caller label only
+unknown_pairs	0	PID without interpretable PGT

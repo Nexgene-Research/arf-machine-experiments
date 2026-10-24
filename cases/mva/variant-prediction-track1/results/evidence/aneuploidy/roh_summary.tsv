@@ -1,0 +1,10 @@
+metric	value	note
+autosome_bp	2875001522	GRCh38 no-alt primary chr1-22
+roh_windows	4697	bcftools roh RG lines on autosomes
+roh_bp	374516842	sum of RG lengths
+roh_markers	662280	markers inside those windows
+F_ROH	0.13026666	autosomal roh_bp / autosome_bp; not a consanguinity diagnosis
+roh_windows_ge_1.5Mb	0	long windows only
+roh_bp_ge_1.5Mb	0	sum of RG lengths >=1.5 Mb
+F_ROH_ge_1.5Mb	0	long-window autosomal fraction; still not a pedigree call
+caveat	not_causal	this table does not establish causality or a pedigree

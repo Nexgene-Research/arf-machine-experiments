@@ -1,0 +1,10 @@
+label	chrom	pos	ref	alt	gt	dp	ad	filter	note
+BUB1_c.2625+1G>A	chr2	110641641	C	.	0/0	46	46	.	homozygous reference at published site; ALT not called; not a causal claim
+BUB1_c.2197dup	chr2	110650552	C	.	0/0	44	44	.	homozygous reference at published site; ALT not called; not a causal claim
+MAD1L1_p.Glu628Ter	chr7	1898316	C	.	0/0	51	50	.	homozygous reference at published site; ALT not called; not a causal claim
+MAD1L1_p.Gln66Ter	chr7	2225505	G	.	0/0	47	47	.	homozygous reference at published site; ALT not called; not a causal claim
+CEP57_p.Arg81Ter	chr11	95812970	C	.	0/0	29	29	.	homozygous reference at published site; ALT not called; not a causal claim
+CEP57_c.520_521del	chr11	95817799	A	.	0/0	50	50	.	homozygous reference at published site; ALT not called; not a causal claim
+CEP57_c.915_925dup	chr11	95827812	A	.	0/0	51	51	.	homozygous reference at published site; ALT not called; not a causal claim
+CENATAC_p.Glu268Val	chr11	119015081	A	.	0/0	51	51	.	homozygous reference at published site; ALT not called; not a causal claim
+CENATAC_c.805+2_805+19del	chr11	119015082	A	.	0/0	51	50	.	homozygous reference at published site; ALT not called; not a causal claim

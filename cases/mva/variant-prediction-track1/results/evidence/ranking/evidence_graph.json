@@ -1,0 +1,1183 @@
+{
+  "nodes": [
+    {
+      "id": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "kind": "clinical_feature",
+      "label": "BUB1-associated chromosomal instability (exploratory)"
+    },
+    {
+      "id": "clinical_feature:mosaic variegated aneuploidy syndrome 1",
+      "kind": "clinical_feature",
+      "label": "mosaic variegated aneuploidy syndrome 1"
+    },
+    {
+      "id": "gene:BUB1",
+      "kind": "gene",
+      "label": "BUB1"
+    },
+    {
+      "id": "gene:BUB1B",
+      "kind": "gene",
+      "label": "BUB1B"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110668376-C-T",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110651114-T-C;chr2-110668376-C-T"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110671177-G-A",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110651114-T-C;chr2-110671177-G-A"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110682617-G-C",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110651114-T-C;chr2-110682617-G-C"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110671177-G-A",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110668376-C-T;chr2-110671177-G-A"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110681551-C-T",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110668376-C-T;chr2-110681551-C-T"
+    },
+    {
+      "id": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110682617-G-C",
+      "kind": "hypothesis",
+      "label": "BUB1:chr2-110668376-C-T;chr2-110682617-G-C"
+    },
+    {
+      "id": "hypothesis:BUB1B:chr15-40157240-G-A;chr15-40209701-T-G",
+      "kind": "hypothesis",
+      "label": "BUB1B:chr15-40157240-G-A;chr15-40209701-T-G"
+    },
+    {
+      "id": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40216470-A-G",
+      "kind": "hypothesis",
+      "label": "BUB1B:chr15-40209701-T-G;chr15-40216470-A-G"
+    },
+    {
+      "id": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40220612-T-G",
+      "kind": "hypothesis",
+      "label": "BUB1B:chr15-40209701-T-G;chr15-40220612-T-G"
+    },
+    {
+      "id": "hypothesis:BUB1B:chr15-40216470-A-G;chr15-40220612-T-G",
+      "kind": "hypothesis",
+      "label": "BUB1B:chr15-40216470-A-G;chr15-40220612-T-G"
+    },
+    {
+      "id": "molecular_effect:chr15-40157240-G-A:unverified",
+      "kind": "molecular_effect",
+      "label": "chr15-40157240-G-A:unverified"
+    },
+    {
+      "id": "molecular_effect:chr15-40209701-T-G:unverified",
+      "kind": "molecular_effect",
+      "label": "chr15-40209701-T-G:unverified"
+    },
+    {
+      "id": "molecular_effect:chr15-40216470-A-G:unverified",
+      "kind": "molecular_effect",
+      "label": "chr15-40216470-A-G:unverified"
+    },
+    {
+      "id": "molecular_effect:chr15-40220612-T-G:unverified",
+      "kind": "molecular_effect",
+      "label": "chr15-40220612-T-G:unverified"
+    },
+    {
+      "id": "molecular_effect:chr2-110651114-T-C:unverified",
+      "kind": "molecular_effect",
+      "label": "chr2-110651114-T-C:unverified"
+    },
+    {
+      "id": "molecular_effect:chr2-110668376-C-T:unverified",
+      "kind": "molecular_effect",
+      "label": "chr2-110668376-C-T:unverified"
+    },
+    {
+      "id": "molecular_effect:chr2-110671177-G-A:unverified",
+      "kind": "molecular_effect",
+      "label": "chr2-110671177-G-A:unverified"
+    },
+    {
+      "id": "molecular_effect:chr2-110681551-C-T:unverified",
+      "kind": "molecular_effect",
+      "label": "chr2-110681551-C-T:unverified"
+    },
+    {
+      "id": "molecular_effect:chr2-110682617-G-C:unverified",
+      "kind": "molecular_effect",
+      "label": "chr2-110682617-G-C:unverified"
+    },
+    {
+      "id": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "kind": "paper",
+      "label": "10.1073/pnas.1317008111;PMID:24344301"
+    },
+    {
+      "id": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "kind": "paper",
+      "label": "10.1126/sciadv.abk0114;PMID:35044816"
+    },
+    {
+      "id": "pathway:MCC core BUBR1",
+      "kind": "pathway",
+      "label": "MCC core BUBR1"
+    },
+    {
+      "id": "pathway:kinetochore recruitment and chromosome cohesion",
+      "kind": "pathway",
+      "label": "kinetochore recruitment and chromosome cohesion"
+    },
+    {
+      "id": "variant:chr15-40157240-G-A",
+      "kind": "variant",
+      "label": "chr15-40157240-G-A"
+    },
+    {
+      "id": "variant:chr15-40209701-T-G",
+      "kind": "variant",
+      "label": "chr15-40209701-T-G"
+    },
+    {
+      "id": "variant:chr15-40216470-A-G",
+      "kind": "variant",
+      "label": "chr15-40216470-A-G"
+    },
+    {
+      "id": "variant:chr15-40220612-T-G",
+      "kind": "variant",
+      "label": "chr15-40220612-T-G"
+    },
+    {
+      "id": "variant:chr2-110651114-T-C",
+      "kind": "variant",
+      "label": "chr2-110651114-T-C"
+    },
+    {
+      "id": "variant:chr2-110668376-C-T",
+      "kind": "variant",
+      "label": "chr2-110668376-C-T"
+    },
+    {
+      "id": "variant:chr2-110671177-G-A",
+      "kind": "variant",
+      "label": "chr2-110671177-G-A"
+    },
+    {
+      "id": "variant:chr2-110681551-C-T",
+      "kind": "variant",
+      "label": "chr2-110681551-C-T"
+    },
+    {
+      "id": "variant:chr2-110682617-G-C",
+      "kind": "variant",
+      "label": "chr2-110682617-G-C"
+    }
+  ],
+  "edges": [
+    {
+      "source_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110671177-G-A",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110671177-G-A",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110671177-G-A",
+      "target_node": "molecular_effect:chr2-110671177-G-A:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110671177-G-A:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110671177-G-A",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110671177-G-A",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40216470-A-G",
+      "target_node": "gene:BUB1B",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40216470-A-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr15-40216470-A-G",
+      "target_node": "molecular_effect:chr15-40216470-A-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40216470-A-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40216470-A-G",
+      "target_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40216470-A-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "pathway:MCC core BUBR1",
+      "relation": "mechanism",
+      "source": "10.1038/ng1449;10.1083/jcb.200102093",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_biochemical_MCC",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "clinical_feature:mosaic variegated aneuploidy syndrome 1",
+      "relation": "phenotype_overlap",
+      "source": "10.1172/JCI126863",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40220612-T-G",
+      "target_node": "gene:BUB1B",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40220612-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr15-40220612-T-G",
+      "target_node": "molecular_effect:chr15-40220612-T-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40220612-T-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40220612-T-G",
+      "target_node": "hypothesis:BUB1B:chr15-40209701-T-G;chr15-40220612-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "pathway:MCC core BUBR1",
+      "relation": "mechanism",
+      "source": "10.1038/ng1449;10.1083/jcb.200102093",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_biochemical_MCC",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "clinical_feature:mosaic variegated aneuploidy syndrome 1",
+      "relation": "phenotype_overlap",
+      "source": "10.1172/JCI126863",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1B:chr15-40216470-A-G;chr15-40220612-T-G",
+      "target_node": "gene:BUB1B",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr15-40216470-A-G",
+      "target_node": "molecular_effect:chr15-40216470-A-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40216470-A-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40216470-A-G",
+      "target_node": "hypothesis:BUB1B:chr15-40216470-A-G;chr15-40220612-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr15-40220612-T-G",
+      "target_node": "molecular_effect:chr15-40220612-T-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40220612-T-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40220612-T-G",
+      "target_node": "hypothesis:BUB1B:chr15-40216470-A-G;chr15-40220612-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "pathway:MCC core BUBR1",
+      "relation": "mechanism",
+      "source": "10.1038/ng1449;10.1083/jcb.200102093",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_biochemical_MCC",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "clinical_feature:mosaic variegated aneuploidy syndrome 1",
+      "relation": "phenotype_overlap",
+      "source": "10.1172/JCI126863",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110668376-C-T",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110668376-C-T",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110668376-C-T",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110671177-G-A",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110671177-G-A",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110671177-G-A",
+      "target_node": "molecular_effect:chr2-110671177-G-A:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110671177-G-A:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110671177-G-A",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110671177-G-A",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110682617-G-C",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110682617-G-C",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110682617-G-C",
+      "target_node": "molecular_effect:chr2-110682617-G-C:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110682617-G-C:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110682617-G-C",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110682617-G-C",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1B:chr15-40157240-G-A;chr15-40209701-T-G",
+      "target_node": "gene:BUB1B",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr15-40157240-G-A",
+      "target_node": "molecular_effect:chr15-40157240-G-A:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40157240-G-A:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40157240-G-A",
+      "target_node": "hypothesis:BUB1B:chr15-40157240-G-A;chr15-40209701-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr15-40209701-T-G:unverified",
+      "target_node": "gene:BUB1B",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr15-40209701-T-G",
+      "target_node": "hypothesis:BUB1B:chr15-40157240-G-A;chr15-40209701-T-G",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "pathway:MCC core BUBR1",
+      "relation": "mechanism",
+      "source": "10.1038/ng1449;10.1083/jcb.200102093",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_biochemical_MCC",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1B",
+      "target_node": "clinical_feature:mosaic variegated aneuploidy syndrome 1",
+      "relation": "phenotype_overlap",
+      "source": "10.1172/JCI126863",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1073/pnas.1317008111;PMID:24344301",
+      "target_node": "gene:BUB1B",
+      "relation": "published_case",
+      "source": "10.1073/pnas.1317008111;PMID:24344301",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110682617-G-C",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110651114-T-C:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110651114-T-C",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110682617-G-C",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110682617-G-C",
+      "target_node": "molecular_effect:chr2-110682617-G-C:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110682617-G-C:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110682617-G-C",
+      "target_node": "hypothesis:BUB1:chr2-110651114-T-C;chr2-110682617-G-C",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110681551-C-T",
+      "target_node": "gene:BUB1",
+      "relation": "proposed_gene",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unvalidated_case_link",
+      "status": "provisional_v1_reconstructed"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110668376-C-T:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110668376-C-T",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110681551-C-T",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "variant:chr2-110681551-C-T",
+      "target_node": "molecular_effect:chr2-110681551-C-T:unverified",
+      "relation": "effect_requires_annotation",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "molecular_effect:chr2-110681551-C-T:unverified",
+      "target_node": "gene:BUB1",
+      "relation": "gene_link",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "unknown",
+      "status": "unverified"
+    },
+    {
+      "source_node": "variant:chr2-110681551-C-T",
+      "target_node": "hypothesis:BUB1:chr2-110668376-C-T;chr2-110681551-C-T",
+      "relation": "proposed_allele",
+      "source": "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv",
+      "access_date": "2026-10-16",
+      "strength": "computational",
+      "status": "provisional"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "pathway:kinetochore recruitment and chromosome cohesion",
+      "relation": "mechanism",
+      "source": "10.1126/sciadv.abk0114",
+      "access_date": "2026-10-16",
+      "strength": "direct_human_genetics_and_cell_function",
+      "status": "literature"
+    },
+    {
+      "source_node": "gene:BUB1",
+      "target_node": "clinical_feature:BUB1-associated chromosomal instability (exploratory)",
+      "relation": "phenotype_overlap",
+      "source": "ClinGen GDV 2026-03-16",
+      "access_date": "2026-10-16",
+      "strength": "qualitative",
+      "status": "literature"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    },
+    {
+      "source_node": "paper:10.1126/sciadv.abk0114;PMID:35044816",
+      "target_node": "gene:BUB1",
+      "relation": "published_case",
+      "source": "10.1126/sciadv.abk0114;PMID:35044816",
+      "access_date": "2026-10-16",
+      "strength": "primary_source",
+      "status": "case_context_not_patient_genotype"
+    }
+  ],
+  "input_sha256": {
+    "F:\\data\\mva-real\\release\\track1-evidence-supplement\\computed\\graph\\ranked_pairs.tsv": "075ae1a983751dcbdd384c0acd355a15167e8365539ccd49d6aeef9e4b2aa11b",
+    "F:\\data\\mva-real\\release\\track1-evidence-supplement\\compiled\\literature\\angle_b_phenotype.tsv": "e0669b57d4cad2afbf7e3418ebfb5d866ff2faaeac4ca7d308aa1a6980d5dfa3",
+    "F:\\data\\mva-real\\release\\track1-evidence-supplement\\compiled\\literature\\angle_c_mechanism.tsv": "12c2ec9fe64358876e0f192ec4bad946ab18813d21dd03a22155cef7e4305468",
+    "F:\\data\\mva-real\\release\\track1-evidence-supplement\\compiled\\literature\\literature_cases.tsv": "39b5494d8b00a82737049e236cd44de17a96ec425caf13ea825bec41f3d5fb5b"
+  },
+  "figure": "figure_unavailable; requested caption in report; no diagram generated"
+}
