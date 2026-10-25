@@ -1,0 +1,5 @@
+Reproduction requirement: Python >=3.10; standard library only.
+Packages used by scripts: csv, json, re, pathlib, hashlib, collections, sys, platform, zipfile.
+No GPU, network, stochastic fitting or external dependency installation required.
+Scientific data reanalysis: none; only public-reference annotation and curated graph/table export.
+The final validator records the actual Python/platform used in validation.json.

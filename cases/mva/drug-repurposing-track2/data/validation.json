@@ -1,0 +1,202 @@
+{
+  "status": "passed",
+  "python": "3.11.15",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "validation_scope": "Static public-evidence package only; no patient biology, clinical benefit or efficacy validated",
+  "summary": {
+    "evidence_claims": 54,
+    "nodes": 134,
+    "edges": 77,
+    "paths": 19,
+    "candidates": 18,
+    "tiers": {
+      "3": 10,
+      "2": 2,
+      "X": 6
+    },
+    "evidence_states": {
+      "inferred": 15,
+      "hypothesized": 20,
+      "measured": 39,
+      "contradicted": 3
+    }
+  },
+  "checks": [
+    "required files and nonempty CSV schemas",
+    "no empty/dummy-value cells in CSV exports",
+    "unique identifiers and referential integrity",
+    "graph states/types and continuous paths",
+    "independent link/transfer counts",
+    "candidate evidence and tier rules",
+    "all axes A-I and 13 decision rows",
+    "report evidence IDs and local links",
+    "conditional reference codon sanity check",
+    "final file hashes"
+  ],
+  "files": {
+    ".gitignore": {
+      "bytes": 158,
+      "sha256": "243c995d1bc5167aae7edb72f3dc699c9c55034b639b0b51087f78e379faed8e"
+    },
+    "CITATION.cff": {
+      "bytes": 942,
+      "sha256": "58756925e02fbbb2072f6c766a7e219f22dfa97be9cd5e9d3e85ba1ebf66cf55"
+    },
+    "curation/bridge_updates.json": {
+      "bytes": 24703,
+      "sha256": "662c84931e7b168d39478ac34b7d8960687986f4877bd42a192ff66d5c031d40"
+    },
+    "curation/candidate_curation.json": {
+      "bytes": 22696,
+      "sha256": "f3877a0ef23008893a820d4a8bd194a07d6d79b8dd5f43c41022306662afd725"
+    },
+    "curation/curation.json": {
+      "bytes": 40032,
+      "sha256": "dc223a89dcc6aa0a9723e2b7c56a28fc99463bc834cd5822c767ba9f4cfcc638"
+    },
+    "curation/evidence_overrides.json": {
+      "bytes": 1544,
+      "sha256": "ebbcb2f30244fe9ffb968cd4d31889e973d4efc427d043bf42e7aca068563d0c"
+    },
+    "curation/graph_curation.json": {
+      "bytes": 28120,
+      "sha256": "a91f5e0ad09a28b790effc8f73b619fca3bdbe149bdd9264f683f03421fb9e3b"
+    },
+    "curation/search_curation.json": {
+      "bytes": 9712,
+      "sha256": "89570ff439410d940be7e19bc28a83da2ff706dd882611717106fe83f93862cb"
+    },
+    "data/candidates.csv": {
+      "bytes": 22033,
+      "sha256": "245d07c6c0388fafe33c47360c42ce90133efe37dbfe30fe2c0d3357e8482377"
+    },
+    "data/datasets.csv": {
+      "bytes": 2009,
+      "sha256": "fe5683a00e963803c7724862eae50fbced89bea631e481550d6bd06240ffd748"
+    },
+    "data/edges.csv": {
+      "bytes": 17959,
+      "sha256": "dc4915e0b03eb43fdfb4eb5fdbfc4e52ab3753592d8718197a0b91dd03e859e6"
+    },
+    "data/evidence.csv": {
+      "bytes": 92202,
+      "sha256": "61c8b091c923d91642651d3693e80f08a5199362d778adce6749e3505c22e0f7"
+    },
+    "data/graph.md": {
+      "bytes": 24009,
+      "sha256": "dabbe4044a8de92b1ca036d7c21208702c8af9ad1e649e368317830507664971"
+    },
+    "data/nodes.csv": {
+      "bytes": 17605,
+      "sha256": "2561ed0974d928845f44be9515c42b58076ec717a27bc1906ad2c9a168d24edd"
+    },
+    "data/package_summary.json": {
+      "bytes": 280,
+      "sha256": "1421f31ba6ec8969dd5452549e34be516b7f33be7eafaa85e991fbcf93b23046"
+    },
+    "data/paths.csv": {
+      "bytes": 9308,
+      "sha256": "b24c38bcd8bc38147ff2c2da7673e037e4aff24aec7660a0fdaef7dbf8342e40"
+    },
+    "data/phenotype_terms.csv": {
+      "bytes": 1646,
+      "sha256": "df62d04bb61f724c1cccdfbfd9385a718ac48a8b2ebf253cbe5df55caeab26e7"
+    },
+    "data/population_annotations.json": {
+      "bytes": 1428,
+      "sha256": "54b9147a721b52f745e75b798970ac56999801d40c381959061de46763626c67"
+    },
+    "data/reference_context.json": {
+      "bytes": 1973,
+      "sha256": "39b4ea92810d21b6bf9ea89687bbc032421f6893b22ec66192fffea54a568cd9"
+    },
+    "data/rejections.csv": {
+      "bytes": 3418,
+      "sha256": "ae40890d874a4e2eb7a8ea58023ead915670fe12336dfcbf40729bbf8e82b581"
+    },
+    "data/research_tools.csv": {
+      "bytes": 2468,
+      "sha256": "0a7b03f25bca8658d394347602e2b576f557adba1bbfb5651ac1b593df53f83a"
+    },
+    "data/search_log.csv": {
+      "bytes": 26809,
+      "sha256": "3f57db89d0fed324e63aa9f36f89f50d911cfdca9bb628c8d2c18dc56d855c07"
+    },
+    "data/source_coverage.csv": {
+      "bytes": 2391,
+      "sha256": "f85169ca0eb4a09ebc30e874cd03cd1e7aa729859e979b8d5ede733e338c2251"
+    },
+    "docs/appendices.md": {
+      "bytes": 44953,
+      "sha256": "339efd9fda3983efb475d25f6597899b9218dcac3fa703a1cb48df0da72060bb"
+    },
+    "docs/claim_audit.md": {
+      "bytes": 5564,
+      "sha256": "5478229e3529232a43fcae9892177916068f7f2c2f5e3e1c441e63ede6e65fe3"
+    },
+    "docs/DELIVERABLES.md": {
+      "bytes": 4440,
+      "sha256": "2aab51fcbef817aa5c2b495e2a341f7b95e9bbaa21eb282052ffb31894744d24"
+    },
+    "docs/report.md": {
+      "bytes": 49168,
+      "sha256": "047234d7311bdc01ade5f5439a3a1a38cff1740e3084ff508ca965502c587541"
+    },
+    "environment.txt": {
+      "bytes": 421,
+      "sha256": "b4b27a4e0b1788bd207756af4fa20ec8f2de1f17bc462c1b41ffdbc6cf352b27"
+    },
+    "LICENSE": {
+      "bytes": 741,
+      "sha256": "35276464c15730780007d3e0dd52cb35e543d21a33a65920f597a8d58b411b86"
+    },
+    "README.md": {
+      "bytes": 4754,
+      "sha256": "8194e13d8a474b3027acaa196f4268da05287c18f7a82a9e543383938b7eaa36"
+    },
+    "reference/bub1b_transcript.json": {
+      "bytes": 5028,
+      "sha256": "3f23a6ba9f26c5a42ccd8a3a111890c83103794b1970477ded12d00daf2bb916"
+    },
+    "reference/clinvar_summary.json": {
+      "bytes": 5334,
+      "sha256": "a41f441e8afd616eca62ef1d0e3b0bde9a7753afca0f5a2b839930bf75ef7931"
+    },
+    "reference/hpo_selected.json": {
+      "bytes": 4061,
+      "sha256": "8a6be5ddac6039ebe04c1332e333da12a8a4e271419f126dffff8a2d3ee9a64c"
+    },
+    "reference/NM_001211.6.gb": {
+      "bytes": 28684,
+      "sha256": "e6162e0c229509602c9aaa77d1c4ce20932694768e32a92f4c9f5cdb4dea3c99"
+    },
+    "reference/uniprot_bubr1.json": {
+      "bytes": 93023,
+      "sha256": "73899b2ea96a39d38e3aa41dc08587e70414c40c41ed0088cb92638cfb336ec1"
+    },
+    "scripts/build_package.py": {
+      "bytes": 14107,
+      "sha256": "eb756688841a1cd923dd5eea9c11f3976b833fd250dbea8e90437f9c4c77fa43"
+    },
+    "scripts/normalize_references.py": {
+      "bytes": 3601,
+      "sha256": "27563414dc1df62aa725a4e157f7fef656a382937f8578556822e021d7f4d999"
+    },
+    "scripts/package_results.py": {
+      "bytes": 1415,
+      "sha256": "aa63170ca6c25081693406eb21d25b2ad4318b864ac9535dfbeaca59ea9bb8d7"
+    },
+    "scripts/paths.py": {
+      "bytes": 301,
+      "sha256": "66e8b51519dcd2f1e577aa4ef54941e07c9b11d44631701793eecb4d176d97bd"
+    },
+    "scripts/render_pdf.py": {
+      "bytes": 7826,
+      "sha256": "592b7ee56955ddd0bf194ad57dbd33d28f4fc447fea29e60b86e068934b2e028"
+    },
+    "scripts/validate_package.py": {
+      "bytes": 9976,
+      "sha256": "8e8741ace9f36bdda7cd612a66b8a46b91a9174cbbeb3626a1b4758ab1204e55"
+    }
+  }
+}

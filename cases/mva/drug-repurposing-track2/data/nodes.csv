@@ -1,0 +1,135 @@
+node_id,node_type,label,context,description
+V737,variant,Reported p.Leu737Ter,constitutional,Protein label; public E01 allele is a reconciliation candidate only
+V1002,variant,Reported p.Asn1002Lys,constitutional,Nucleotide identity and functional role unresolved
+A737,allele,Putative stop-bearing allele,constitutional,Phase and zygosity unresolved
+A1002,allele,Putative missense-bearing allele,constitutional,May be in cis with stop; not assumed separate
+TX,transcript,NM_001211.6 MANE transcript,reference,ENST00000287598.11
+NMD,biological_process,Nonsense-mediated RNA decay,constitutional hypothesis,Predicted for verified public stop allele; patient RNA needed
+RNA737,protein_state_or_function,Stop-allele transcript availability,constitutional hypothesis,RNA abundance is distinct from protein function
+TRUNC,protein_state_or_function,BUBR1 residues 1-736,constitutional hypothesis,Product exists only if expressed and stable
+MISS,protein_state_or_function,Full-length Asn1002Lys protein,constitutional hypothesis,"May retain function, be unstable, or be functionally defective"
+ABUND,protein_state_or_function,Total BUBR1 abundance,normal cells,Does not by itself imply rescue
+STABLE,protein_state_or_function,BUBR1 protein stability,experimental models,Half-life/ubiquitination endpoint
+LOC,protein_state_or_function,Correct kinetochore BUBR1 localization,normal cells,Separate functional prerequisite
+FUNC,protein_state_or_function,Functional BUBR1 checkpoint activity,normal cells,"MCC/APC-C regulation, not total abundance"
+MCC,complex_or_interaction,BUBR1-BUB3-MAD2-CDC20 MCC,mitosis,Checkpoint-complex assembly and dynamics
+APC,complex_or_interaction,CDC20-APC/C activity,mitosis,"Must be timed, not permanently inhibited"
+BUB3,target,BUB3,mitosis,BUBR1 partner; not BUB1
+PP2A,complex_or_interaction,Kinetochore PP2A-B56,mitosis,Localization-specific phosphatase complex
+AURORA,target,Aurora B activity,mitosis,Opposing attachment phosphorylation; inhibition has nonlinear risks
+ALIGN,cell_phenotype,Chromosome alignment,normal model cells,Alignment under arrest is not segregation fidelity
+ERROR,cell_phenotype,New chromosome-segregation errors,normal cells,"Per completed division, with selection controls"
+MICRO,cell_phenotype,Micronuclei,normal cells,Affected by division rate and selective death
+TISSUE,tissue_or_clinical_phenotype,Tissue dysfunction,constitutional,No specific renal/muscle mechanism presumed
+CANCERRISK,tissue_or_clinical_phenotype,Future malignant transformation risk,constitutional,Not inferred from micronucleus count
+SIRT2,target,SIRT2 deacetylase,WT and hypomorphic models,Not SIRT1; site/time-specific effects
+K668,protein_state_or_function,BUBR1 K668 deacetylation,experimental models,Stability-associated modification
+K250,protein_state_or_function,BUBR1 K250 deacetylation,mitosis,Checkpoint-silencing context
+NAD,metabolite,NAD availability,metabolic,Nonselective cofactor change
+NMN,research_tool,NMN,preclinical,NAD precursor; not counted as approved medicine
+GENT,drug,Gentamicin injection,allele-restoration hypothesis,Approved antibiotic; readthrough exposure unresolved
+READ,biological_process,Premature-stop readthrough,allele-restoration hypothesis,Sequence-dependent
+LONG,protein_state_or_function,Readthrough-derived longer BUBR1,constitutional hypothesis,Incorporated residue and function unverified
+RENALTOX,safety_outcome,Renal/auditory toxicity,human drug safety,Not synonymous with existing nephrocalcinosis
+TETHER,research_tool,Kinetochore-targeted B56 construct,experimental rescue,Genetic localization bypass
+ZM,research_tool,ZM447439,experimental rescue,Aurora inhibitor; not approved shortlist
+FING,drug,Fingolimod,rejected PP2A bridge,Approved S1P modulator; no localized rescue shown
+S1P,target,S1P receptors,immune context,Established fingolimod pharmacology
+BORTEZ,drug,Bortezomib,rejected abundance bridge,Broad proteasome inhibition
+PROTEASOME,target,Proteasome,proteostasis,System-wide degradation machinery
+SEN,cell_phenotype,p16-high senescent-cell burden,hypomorphic mouse,Not established in case
+CLEAR,research_tool,INK-ATTAC/AP20187 clearance,hypomorphic mouse,Transgene-dependent cell removal
+DASA,drug,Dasatinib,senolysis hypothesis,Not approved for senolysis
+SIRO,drug,Sirolimus,downstream hypothesis,Approved systemic mTOR inhibitor
+MTOR,target,mTOR signaling,cell growth/stress,Causal role in case not demonstrated
+SASP,biological_process,Senescence-associated inflammatory output,constitutional hypothesis,Must be measured; not assumed
+IMMUNE,safety_outcome,Immune/marrow injury,normal affected tissues,Potential therapy overlap
+MET,drug,Metformin,downstream hypothesis,No genotype-specific genome protection shown
+STRESS,cell_phenotype,Replication/oxidative/proteotoxic injury,constitutional hypothesis,Not equivalent to HR deficiency
+CITRATE,drug,Potassium citrate ER,renal-support branch,Formulation and biochemical eligibility required
+URINE,biological_process,Urinary citrate/alkali response,renal biochemical subgroup,Defined hypocitraturia/RTA branch
+CRYSTAL,cell_phenotype,Calcium-crystal supersaturation,renal biochemical subgroup,Urine pH can change opposing mineral risks
+NEPHRO,tissue_or_clinical_phenotype,Nephrocalcinosis,reported child feature,"Cause, onset documentation and renal function unknown"
+HYPERK,safety_outcome,Hyperkalemia,human drug safety,Depends on potassium handling and interactions
+LARO,drug,Larotrectinib,tumor branch,Fusion-selected eligibility only
+NTRK,target,Oncogenic NTRK fusion signaling,tumor only,Not established in reported RMS
+TUMOR,cell_phenotype,Rhabdomyosarcoma viability/growth,tumor only,Subtype and genotype unknown
+TEM,drug,Temsirolimus,tumor branch,"RMS trials assessed combinations, not MVA repair"
+EFS,tissue_or_clinical_phenotype,RMS event-free survival,tumor clinical context,Population- and backbone-specific
+TRAM,drug,Trametinib,conditional bypass hypothesis,Approved MEK inhibitor; not U0126
+U0126,research_tool,U0126,RAS-hyperactive experimental context,Research MEK inhibitor
+MAPK,target,MEK-ERK signaling,RAS-hyperactive cells,Hyperactivation not established in case
+HEC1,protein_state_or_function,Kinetochore Hec1 hyperphosphorylation,RAS-hyperactive cells,Intermediate between kinase balance and attachments
+GH,drug,Somatropin,growth-support screening,Active malignancy contraindication
+NORMALMODEL,experimental_model,Authorized patient-derived normal cells,proposed only,No patient cells obtained or tested
+MOUSEMODEL,experimental_model,BubR1 hypomorphic mouse,published,Not equivalent to human allele pair
+CANCERMODEL,experimental_model,Matched RMS tumor model,proposed only,Required for therapeutic-window testing
+CGAS,biological_process,cGAS-STING inflammatory signaling,constitutional hypothesis,No genotype-specific bridge retrieved
+ATLR,research_tool,Ataluren,regulatory exclusion,EU authorization not renewed; not current EU approved shortlist
+AMIK,drug,Amikacin,read-through hypothesis,Aminoglycoside; MT-RNR1 screening required
+HCQ,drug,Hydroxychloroquine,degradation-blocking hypothesis,Blocks lysosomal/autophagic BUBR1 turnover
+VINC,drug,Vincristine,RMS standard chemotherapy,Vinca alkaloid backbone of RMS regimens
+OLAP,drug,Olaparib,tumor DNA-repair hypothesis,PARP inhibitor; HRR/BRCA-selected only
+PARP,target,PARP1/2,DNA repair,Synthetic-lethality target in HR-deficient tumors
+AZI,drug,Azithromycin,allele restoration hypothesis,Approved antibiotic; exact native BUB1B readthrough unknown
+ARIMO,drug,Arimoclomol,residual folding hypothesis,Approved NPC medicine; clinical mechanism unknown
+HSF,target,HSF1/HSP response,context dependent,Drug response and BUBR1 rescue unverified
+NIACIN,drug,Prescription niacin ER,NAD hypothesis,"Not NMN, NR or generic supplement"
+AUTO,biological_process,Autophagy/mitophagy balance,fly SAC-loss and case hypothesis,Flux rather than marker accumulation
+NB,cell_phenotype,Surviving aneuploid neuroblasts,fly SAC-loss,Not tissue function or chromosome correction
+BRAIN,tissue_or_clinical_phenotype,Brain size/progeny output,fly SAC-loss,Microcephaly not a supplied case phenotype
+MITOPROBE,research_tool,Hsp60/Hsp60c or Sod2/GTPx-1 expression,fly SAC-loss,Not a validated approved-drug equivalent
+SRC_E01,evidence_source,E01 VCV000533901,Human public variant record,https://www.ncbi.nlm.nih.gov/clinvar/variation/533901/
+SRC_E02,evidence_source,E02 VCV004600147,Human public variant record,https://www.ncbi.nlm.nih.gov/clinvar/variation/4600147/
+SRC_E03,evidence_source,E03 NM_001211.6;ENST00000287598.11;NP_001202.5,Human reference GRCh38,https://rest.ensembl.org/overlap/id/ENST00000287598?feature=mane;content-type=application/json
+SRC_E04,evidence_source,E04 UniProt O60566,Human reference BUBR1,https://www.uniprot.org/uniprotkb/O60566/entry
+SRC_E05,evidence_source,E05 MONDO:0009759;HGNC:1149;ClinGen assertion 59147f27-d5a3-4760-ba8d-0429bae3c906,Human gene-disease relationship,https://search.clinicalgenome.org/kb/gene-validity/CGGV:assertion_59147f27-d5a3-4760-ba8d-0429bae3c906-2019-11-22T145326.352Z
+SRC_E06,evidence_source,E06 PMID:15475955;DOI:10.1038/ng1449,Human families with MVA,https://doi.org/10.1038/ng1449
+SRC_E07,evidence_source,E07 PMID:20516114;DOI:10.1158/0008-5472.CAN-09-4319,Human MVA-derived cells and engineered human cell systems,https://doi.org/10.1158/0008-5472.CAN-09-4319
+SRC_E08,evidence_source,E08 DOI:10.1172/JCI126863;correction:10.1172/JCI144781,Engineered mice and MEFs,https://doi.org/10.1172/JCI126863
+SRC_E09,evidence_source,E09 PMID:24825348;DOI:10.15252/embj.201386907,Human cells and mouse MEFs,https://pmc.ncbi.nlm.nih.gov/articles/PMC4194088/
+SRC_E10,evidence_source,E10 DOI:10.15252/embj.201386907,"Young/aged mice, testes and heart; WT and Sirt2-null MEFs; BubR1H/H mice for transgene study",https://pmc.ncbi.nlm.nih.gov/articles/PMC4194088/
+SRC_E11,evidence_source,E11 PMID:25285631;DOI:10.1016/j.bbrc.2014.09.128,Human mitotic cell model,https://doi.org/10.1016/j.bbrc.2014.09.128
+SRC_E12,evidence_source,E12 PMID:23789096;DOI:10.1242/bio.20134051,Human HeLa and published MVA-derived cell lines,https://pmc.ncbi.nlm.nih.gov/articles/PMC3654266/
+SRC_E13,evidence_source,E13 DOI:10.1242/bio.20134051,Human HeLa and B56/BUBR1 perturbation contexts,https://pmc.ncbi.nlm.nih.gov/articles/PMC3654266/
+SRC_E14,evidence_source,E14 DOI:10.1242/jcs.122481,Human cultured mitotic cells,https://doi.org/10.1242/jcs.122481
+SRC_E15,evidence_source,E15 DOI:10.1038/nature10600,"Mouse adipose, skeletal muscle and eye",https://doi.org/10.1038/nature10600
+SRC_E16,evidence_source,E16 DOI:10.1016/j.celrep.2013.03.028,BubR1 progeroid mice,https://pmc.ncbi.nlm.nih.gov/articles/PMC3785294/
+SRC_E17,evidence_source,E17 DOI:10.1111/acel.12344,Human senescent cells and mouse aging/injury models,https://doi.org/10.1111/acel.12344
+SRC_E18,evidence_source,E18 DOI:10.1371/journal.pgen.1002608,Mouse NIH3T3 reporter cells,https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002608
+SRC_E19,evidence_source,E19 PMID:36191188;DOI:10.1073/pnas.2208255119,Human engineered retinal epithelial cells and glioblastoma isolates,https://pmc.ncbi.nlm.nih.gov/articles/PMC9565228/
+SRC_E20,evidence_source,E20 PMID:27528194;DOI:10.7554/eLife.16620,Mouse transgenic models and MEFs,https://pmc.ncbi.nlm.nih.gov/articles/PMC4987139/
+SRC_E21,evidence_source,E21 DOI:10.1200/JCO.19.00576;ARST0921,Human first-relapse unfavorable-prognosis RMS,https://pmc.ncbi.nlm.nih.gov/articles/PMC6823886/
+SRC_E22,evidence_source,E22 DOI:10.1016/S1470-2045(24)00255-9;NCT02567435;ARST1431,Human intermediate-risk RMS,https://pmc.ncbi.nlm.nih.gov/articles/PMC11550893/
+SRC_E23,evidence_source,E23 PMID:35568294;DOI:10.1016/j.fct.2022.113129,Human and mouse fibroblast models,https://doi.org/10.1016/j.fct.2022.113129
+SRC_E24,evidence_source,E24 DOI:10.1038/s41388-021-02021-y,"Human bladder cancer, including chemoradiation-resistant cell/clinical contexts",https://doi.org/10.1038/s41388-021-02021-y
+SRC_E25,evidence_source,E25 HPO hp.obo downloaded snapshot,Ontology definitions,https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/hp.obo
+SRC_E26,evidence_source,E26 GSE67905;GPL570;PRJNA281179,Human HeLa,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67905&targ=self&form=text&view=full
+SRC_E27,evidence_source,E27 WO2017062311A1;WO2017049409A1,Patent claims/examples in unrelated models,https://patents.google.com/patent/WO2017062311A1/en
+SRC_E28,evidence_source,E28 EMA EPAR Translarna;decision 2025-03-28,Human regulatory status,https://www.ema.europa.eu/en/medicines/human/EPAR/translarna
+SRC_E30,evidence_source,E30 DailyMed setid:63413469-c676-48a3-a945-7d2489b535ef; source date:2024-10-14,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63413469-c676-48a3-a945-7d2489b535ef
+SRC_E31,evidence_source,E31 DailyMed setid:3275b824-3f82-4151-2ab2-0036a9ba0acc; source date:2024-10,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3275b824-3f82-4151-2ab2-0036a9ba0acc
+SRC_E32,evidence_source,E32 DailyMed setid:95b7dc92-2180-42f1-8699-3c28f609e674; source date:2025-12-26 webpage; prescribing revision 2023-04,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95b7dc92-2180-42f1-8699-3c28f609e674
+SRC_E33,evidence_source,E33 DailyMed setid:4764f37b-c9e6-4ede-bcc2-8a03b7c521df; source date:2026-09-15,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df
+SRC_E34,evidence_source,E34 DailyMed setid:2387a618-24d8-4813-aa83-9114edb35374; source date:2026-04-16,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2387a618-24d8-4813-aa83-9114edb35374
+SRC_E35,evidence_source,E35 DailyMed setid:72cdea1b-2240-41db-987d-86d5c6aaa978; source date:2025-12-02,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72cdea1b-2240-41db-987d-86d5c6aaa978
+SRC_E36,evidence_source,E36 DailyMed setid:cc9e1c8c-0e2b-44e2-878b-27057f786be9; source date:2026-07-22,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cc9e1c8c-0e2b-44e2-878b-27057f786be9
+SRC_E37,evidence_source,E37 DailyMed setid:1521d321-e724-4ffc-adad-34bf4f44fac7; source date:2025-08-28,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1521d321-e724-4ffc-adad-34bf4f44fac7
+SRC_E38,evidence_source,E38 DailyMed setid:1058e17c-9261-459c-a3e6-fae38d196c14; source date:2025-07-07,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1058e17c-9261-459c-a3e6-fae38d196c14
+SRC_E39,evidence_source,E39 DailyMed setid:0002ad27-779d-42ab-83b5-bc65453412a1; source date:2026-05-07,Human clinical label,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0002ad27-779d-42ab-83b5-bc65453412a1
+SRC_E40,evidence_source,"E40 FDA label Reference ID 5568353, revised 2025-04;210861s012",Human fusion-selected solid tumors; includes pediatric patients,https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210861s012lbl.pdf
+SRC_E41,evidence_source,E41 NCT02567435;last update 2026-10-01,Human RMS trial,https://clinicaltrials.gov/api/v2/studies/NCT02567435
+SRC_E42,evidence_source,E42 DepMap26Q3,Cancer-cell models,https://forum.depmap.org/t/announcing-the-26q3-release/4692
+SRC_E43,evidence_source,E43 PMID:41820377;DOI:10.1038/s41467-026-70521-0,Drosophila neural stem cells/neuroblasts,https://doi.org/10.1038/s41467-026-70521-0
+SRC_E44,evidence_source,E44 DOI:10.1038/s41467-026-70521-0,Drosophila neural progenitors,https://doi.org/10.1038/s41467-026-70521-0
+SRC_E45,evidence_source,E45 PMID:27815460;DOI:10.21873/invivo.10993,Mouse,https://doi.org/10.21873/invivo.10993
+SRC_E46,evidence_source,E46 PMID:26620677;PMID:37276642;DOI:10.1007/s00109-015-1364-1;DOI:10.1016/j.biopha.2023.114968,Mammalian reporters and ApcMin/+ mouse intestine,https://pubmed.ncbi.nlm.nih.gov/37276642/
+SRC_E47,evidence_source,E47 PMID:27605553;DOI:10.1126/scitranslmed.aad9823,NPC patient fibroblasts and Npc1-null mice,https://doi.org/10.1126/scitranslmed.aad9823
+SRC_E48,evidence_source,E48 PMID:34481829;DOI:10.1016/j.jlr.2021.100114,Human NPC1 fibroblasts,https://pmc.ncbi.nlm.nih.gov/articles/PMC8517605/
+SRC_E49,evidence_source,E49 PMID:32386566;DOI:10.1016/j.cmet.2020.04.008;correction:10.1016/j.cmet.2020.05.020,Adults with mitochondrial myopathy and matched controls,https://pubmed.ncbi.nlm.nih.gov/32386566/
+SRC_E50,evidence_source,E50 FDA050784s040;Reference5832872;label2026-07,Human clinical use,https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/050784s040lbl.pdf
+SRC_E51,evidence_source,E51 DailyMed5feffc0e-453d-47fa-91dd-38d4952309bc;label2026-03,Human NPC and safety studies,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5feffc0e-453d-47fa-91dd-38d4952309bc
+SRC_E52,evidence_source,E52 DailyMed52ad4a6a-81cc-4b03-b8b1-3bd9a1d4064e;label2023-12,Human lipid indications,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=52ad4a6a-81cc-4b03-b8b1-3bd9a1d4064e
+SRC_E53,evidence_source,E53 PMID:34655297;DOI:10.1002/cpt.2309,Human pharmacogenomics guideline,https://doi.org/10.1002/cpt.2309
+SRC_E54,evidence_source,E54 PMID:37094517;DOI:10.1016/j.redox.2023.102701,Human Wharton-jelly MSCs and mouse tissues,https://doi.org/10.1016/j.redox.2023.102701
+SRC_E55,evidence_source,E55 DailyMed741ff3e3-dc1a-45a6-84e5-2481b27131aa;label2025-07,Human HRR/BRCA-selected solid tumors,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=741ff3e3-dc1a-45a6-84e5-2481b27131aa

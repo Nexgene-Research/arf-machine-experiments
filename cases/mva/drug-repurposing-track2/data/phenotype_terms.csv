@@ -1,0 +1,10 @@
+id,name,def
+HP:0000121,Nephrocalcinosis,"""Nephrocalcinosis is the deposition of calcium salts in renal parenchyma."" [https://orcid.org/0000-0002-0736-9199]"
+HP:0001508,Failure to thrive,"""Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm."" [https://orcid.org/0000-0002-0736-9199]"
+HP:0001518,Small for gestational age,"""Smaller than normal size according to sex and gestational age related norms, defined as a weight below the 10th percentile for the gestational age."" [https://orcid.org/0000-0002-6410-0882]"
+HP:0001622,Premature birth,"""The birth of a baby of less than 37 weeks of gestational age."" [https://orcid.org/0000-0002-0736-9199]"
+HP:0002859,Rhabdomyosarcoma,No definition present in retrieved term block
+HP:0003199,Decreased muscle mass,No definition present in retrieved term block
+HP:0003202,Skeletal muscle atrophy,"""The presence of skeletal muscular atrophy (which is also known as amyotrophy)."" [https://orcid.org/0000-0002-0736-9199]"
+HP:0004322,Short stature,"""A height below that which is expected according to age and gender norms. Although there is no universally accepted definition of short stature, many refer to \""short stature\"" as height more than 2 standard deviations below the mean for age and gender (or below the 3rd percentile for age and gender dependent norms)."" [https://orcid.org/0000-0002-0736-9199]"
+HP:0200067,Recurrent spontaneous abortion,"""Repeated episodes of abortion (Expulsion of the product of fertilization before completing the term of gestation) without deliberate interference."" [https://orcid.org/0000-0002-0736-9199]"

@@ -1,0 +1,45 @@
+[
+  {
+    "clinvar_id": "533901",
+    "title": "NM_001211.6(BUB1B):c.2210T>G (p.Leu737Ter)",
+    "annotations": [
+      {
+        "source": "The Genome Aggregation Database (gnomAD)",
+        "value": "0.00003",
+        "minor_allele": ""
+      },
+      {
+        "source": "The Genome Aggregation Database (gnomAD), exomes",
+        "value": "0.00003",
+        "minor_allele": ""
+      },
+      {
+        "source": "The Genome Aggregation Database (gnomAD)",
+        "value": "0.00004",
+        "minor_allele": ""
+      },
+      {
+        "source": "Exome Aggregation Consortium (ExAC)",
+        "value": "0.00005",
+        "minor_allele": ""
+      },
+      {
+        "source": "Trans-Omics for Precision Medicine (TOPMed)",
+        "value": "0.00006",
+        "minor_allele": ""
+      },
+      {
+        "source": "The Genome Aggregation Database (gnomAD), exomes",
+        "value": "0.00008",
+        "minor_allele": ""
+      }
+    ],
+    "interpretation": "ClinVar-carried population annotations only; release/ancestry/count/coverage not independently verified. Empty is unknown, not absent."
+  },
+  {
+    "clinvar_id": "4600147",
+    "title": "NM_001211.6(BUB1B):c.3006T>A (p.Asn1002Lys)",
+    "annotations": [],
+    "interpretation": "ClinVar-carried population annotations only; release/ancestry/count/coverage not independently verified. Empty is unknown, not absent."
+  }
+]

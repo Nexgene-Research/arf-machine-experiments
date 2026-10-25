@@ -1,0 +1,51 @@
+{
+  "source": "https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/hp.obo",
+  "header": "format-version: 1.2\ndata-version: hp/releases/2026-09-01\nsubsetdef: secondary_consequence \"Consequence of a disorder in another organ system.\"\nsynonymtypedef: abbreviation \"abbreviation\"\nsynonymtypedef: allelic_requirement \"allelic_requirement\"\nsynonymtypedef: layperson \"layperson term\"\nsynonymtypedef: obsolete_synonym \"discarded/obsoleted synonym\"\nsynonymtypedef: plural_form \"plural form\"\nsynonymtypedef: uk_spelling \"UK spelling\"\ndefault-namespace: human_phenotype\nidspace: dc http://purl.org/dc/elements/1.1/ \nidspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# \nidspace: terms http://purl.org/dc/terms/ \nremark: Please see license of HPO at http://www.human-phenotype-ontology.org\nontology: hp.obo\nproperty_value: dc:creator \"Human Phenotype Ontology Consortium\" xsd:string\nproperty_value: dc:creator \"Monarch Initiative\" xsd:string\nproperty_value: dc:creator \"Peter Robinson\" xsd:string\nproperty_value: dc:creator \"Sebastian K\u00f6hler\" xsd:string\nproperty_value: dc:description \"The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities and clinical features encountered in human disease.\" xsd:string\nproperty_value: dc:rights \"Peter Robinson, Sebastian Koehler, The Human Phenotype Ontology Consortium, and The Monarch Initiative\" xsd:string\nproperty_value: dc:subject \"Phenotypic abnormalities encountered in human disease\" xsd:string\nproperty_value: dc:title \"Human Phenotype Ontology\" xsd:string\nproperty_value: IAO:0000700 HP:0000001\nproperty_value: owl:versionInfo \"2026-09-01\" xsd:string\nproperty_value: terms:license https://hpo.jax.org/app/license\nlogical-definition-view-relation: has_part\n\n",
+  "terms": [
+    {
+      "id": "HP:0000121",
+      "name": "Nephrocalcinosis",
+      "def": "\"Nephrocalcinosis is the deposition of calcium salts in renal parenchyma.\" [https://orcid.org/0000-0002-0736-9199]"
+    },
+    {
+      "id": "HP:0001508",
+      "name": "Failure to thrive",
+      "def": "\"Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.\" [https://orcid.org/0000-0002-0736-9199]"
+    },
+    {
+      "id": "HP:0001518",
+      "name": "Small for gestational age",
+      "def": "\"Smaller than normal size according to sex and gestational age related norms, defined as a weight below the 10th percentile for the gestational age.\" [https://orcid.org/0000-0002-6410-0882]"
+    },
+    {
+      "id": "HP:0001622",
+      "name": "Premature birth",
+      "def": "\"The birth of a baby of less than 37 weeks of gestational age.\" [https://orcid.org/0000-0002-0736-9199]"
+    },
+    {
+      "id": "HP:0002859",
+      "name": "Rhabdomyosarcoma",
+      "def": "No definition present in retrieved term block"
+    },
+    {
+      "id": "HP:0003199",
+      "name": "Decreased muscle mass",
+      "def": "No definition present in retrieved term block"
+    },
+    {
+      "id": "HP:0003202",
+      "name": "Skeletal muscle atrophy",
+      "def": "\"The presence of skeletal muscular atrophy (which is also known as amyotrophy).\" [https://orcid.org/0000-0002-0736-9199]"
+    },
+    {
+      "id": "HP:0004322",
+      "name": "Short stature",
+      "def": "\"A height below that which is expected according to age and gender norms. Although there is no universally accepted definition of short stature, many refer to \\\"short stature\\\" as height more than 2 standard deviations below the mean for age and gender (or below the 3rd percentile for age and gender dependent norms).\" [https://orcid.org/0000-0002-0736-9199]"
+    },
+    {
+      "id": "HP:0200067",
+      "name": "Recurrent spontaneous abortion",
+      "def": "\"Repeated episodes of abortion (Expulsion of the product of fertilization before completing the term of gestation) without deliberate interference.\" [https://orcid.org/0000-0002-0736-9199]"
+    }
+  ]
+}

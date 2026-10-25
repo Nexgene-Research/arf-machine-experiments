@@ -1,0 +1,53 @@
+{
+ "searches": [
+  ["variant_forward","Folklore variant evidence","BUB1B p.Leu737*; BUB1B p.Asn1002Lys","Protein-only resolution did not provide a usable exact patient mapping; used public ClinVar records instead"],
+  ["variant_forward","literature PubMed/EuropePMC","BUB1B mosaic variegated aneuploidy Leu737 Asn1002 functional mutant","General MVA functional studies; no exact-allele rescue established"],
+  ["variant_forward","Exa web","BUB1B \"737\" \"1002\"","Public matching variant records and secondary pages; no case identity imported"],
+  ["variant_forward","PubMed","(BUB1B OR BUBR1) AND (mosaic variegated aneuploidy)","Hanks and functional MVA literature selected; reviews not used as direct experiments"],
+  ["mechanism_forward","literature PubMed/EuropePMC","BubR1 SIRT2 acetylation stability NAD rescue senescence hypomorphic","SIRT2-K668 and hypomorphic-mouse anchors"],
+  ["mechanism_forward","literature PubMed/EuropePMC","BUBR1 deficient rescue chromosome segregation PP2A B56 small molecule aneuploidy","Recruitment and attachment bypass anchors"],
+  ["mechanism_forward","PubMed","(BUBR1 OR BUB1B) AND (PP2A) AND (2012[dp] OR 2013[dp])","Direct PP2A interaction/recruitment papers selected"],
+  ["mechanism_forward","literature EuropePMC","BubR1 senescent cells clearance rapamycin treatment rescue","Genetic clearance, tissue-dependent p21, rapamycin negative statement"],
+  ["bridge_counterevidence","Exa web","BUBR1 rescue nucleosides replication stress antioxidant cGAS STING metformin","No complete exact-genotype downstream drug chain found"],
+  ["bridge_counterevidence","Exa web","BUB1B rescue chromosome segregation approved drug nucleoside antioxidant STING fingolimod PP2A","RAS/MAPK bypass primary paper located; no fingolimod recruitment rescue"],
+  ["bridge_counterevidence","Exa web","BubR1 rapamycin \"unpublished\"","Located primary discussion reporting preliminary non-rescue"],
+  ["tumor_backward","PubMed","25285631[PMID] OR 35568294[PMID] OR (rhabdomyosarcoma AND temsirolimus AND (ARST1431 OR ARST0921))","Mitotic site/timing counterevidence; metformin context; RMS trials"],
+  ["regulatory_backward","Exa research service","Official FDA/DailyMed labels for sirolimus, temsirolimus, gentamicin, metformin, dasatinib, potassium citrate, fingolimod, bortezomib and somatropin; ARST0921/1431 primary evidence","Source discovery followed by direct label/primary reading; internal subqueries not exported"],
+  ["patents_datasets","Exa research service","BUB1B variants; SIRT2 stability; PP2A rescue; senescence; approved-drug bridges; patents; GEO and DepMap metadata","Selected patent and dataset URLs verified; internal subqueries not exported; no raw data analysis"],
+  ["phenotype_audit","Exa web and HPO GitHub","HPO HP:0000121 HP:0001622 HP:0001518 HP:0200067 HP:0003202","Full ontology downloaded and exact terms/definitions extracted"],
+  ["regulatory_backward","Exa web","site.dailymed.nlm.nih.gov MEKINIST trametinib oral solution pediatric 1 year BRAF V600E","Approved context is selected BRAF indications, not generic BUB1B/RAS rescue"],
+  ["variant_followup","PubMed","BUB1B AND (\"c.2210T>G\" OR \"c.3006T>A\" OR \"Leu737Ter\" OR \"Asn1002Lys\" OR \"L737*\" OR \"N1002K\")","Query returned broad off-target records; not interpreted as exact-variant matches. Relevant oxidative-stress paper separately read"],
+  ["population_followup","Exa web","BUB1B \"40209701\" \"gnomAD\"","No independent current gnomAD count/coverage record established; derivative case submissions excluded as clinical evidence"],
+  ["recent_bridge","literature PubMed/EuropePMC","2026 mosaic variegated aneuploidy microcephaly rapamycin Drosophila spindle checkpoint","2026 Nature Communications study located and results/methods read"],
+  ["recent_bridge","Exa web","2026 \"microcephaly\" \"rapamycin\" \"aneuploidy\"","Confirmed primary source; explicit distinction between stem-cell counts and tissue output"],
+  ["approved_readthrough","literature PubMed/EuropePMC","azithromycin nonsense readthrough approved premature stop","Reviews used for discovery only"],
+  ["approved_readthrough","PubMed","azithromycin AND (readthrough OR \"read-through\" OR nonsense)","Macrolide reporter and APC-mouse studies; corrections identified; abstracts read"],
+  ["chaperone_bridge","literature PubMed/EuropePMC","arimoclomol HSP70 heat shock response BUBR1","No candidates returned for exact bridge"],
+  ["chaperone_counterevidence","PubMed","arimoclomol AND HSP70 AND Niemann","Positive and negative NPC mechanistic studies located; no BUB1B equivalence"],
+  ["NAD_backward","PubMed","\"Niacin Cures Systemic NAD\"","Adult mitochondrial-myopathy study; no BUB1B functional endpoint"],
+  ["regulatory_followup","Exa web and direct labels","site.fda.gov arimoclomol Miplyffa approved 2024 heat shock; site.dailymed.nlm.nih.gov MIPLYFFA arimoclomol mechanism; site.dailymed.nlm.nih.gov niacin extended release INDICATIONS pediatric; site.dailymed.nlm.nih.gov ZITHROMAX suspension azithromycin QT pediatric","Current generic niacin label used after inactive historical repackaged label; arimoclomol and azithromycin current label details verified"]
+ ],
+ "coverage": [
+  ["ClinVar;ClinGen","accessed","E01;E02;E05","Public records/curation accessible; original case genotype not verified; no fresh formal ACMG assignment"],
+  ["RefSeq;Ensembl;MANE;UniProt;HPO","accessed","E03;E04;E25","Public reference snapshots retained; transcript reconciliation applies only to public alleles"],
+  ["NCBI Gene","attempted_limited","NCBI Gene701","HTML retrieval not useful; RefSeq/Ensembl sources used instead"],
+  ["gnomAD","not_independently_verified","ClinVar population annotations","No current versioned allele count/ancestry/coverage audit; source references only"],
+  ["PubMed;Europe PMC;PMC;publisher full texts","accessed_selectively","Evidence ledger","Full text where successful; abstracts otherwise; not exhaustive; methods/captions read, not all images/supplements"],
+  ["OpenAlex;Crossref;Semantic Scholar;preprint servers","discovery_or_not_directly_queried","Literature tool routing","Some default literature searches used OpenAlex; no separate comprehensive Crossref/Semantic Scholar search; preprints not counted as replication"],
+  ["FDA;DailyMed;EMA","accessed_selectively","E28;E30-E40;E50-E52","Official status/labels read; local pharmacy supply and nonUS/EU approvals not comprehensively checked"],
+  ["ClinicalTrials.gov","accessed_selectively","NCT02567435","Current API status verified; CTIS/WHO registries not independently searched"],
+  ["Google Patents","accessed_selectively","WO2017062311A1;WO2017049409A1","Targeted family/text inspection; no exhaustive patent landscape or legal opinion"],
+  ["Espacenet;WIPO PATENTSCOPE;Lens","not_queried","No claim made","Availability/licensing not verified in this assessment"],
+  ["GEO","metadata_only","GSE67905;GSE290206;GSE301548","GSE67905 SOFT inspected; fly accessions read from article; no raw matrix reanalysis"],
+  ["DepMap;PRISM","metadata_only","DepMap26Q3","Public release notes read; dependency and drug matrices not downloaded/analyzed; per-file license review still needed"],
+  ["GDSC;CTRP;cBioPortal;LINCS/L1000","not_queried","No claim made","No drug-sensitivity/signature analysis; licenses/access not verified"],
+  ["Reactome;IUPHAR;ChEMBL;BindingDB;PubChem;Open Targets;DGIdb;DrugCentral","not_systematically_queried","Primary literature and labels used","No exhaustive approved-medication target-library screen; biochemical affinities not fabricated"],
+  ["SRA;ArrayExpress/BioStudies;PRIDE/ProteomeXchange","not_queried","No claim made","No raw sequencing/proteomics downloads or analysis; access/licensing not verified"]
+ ],
+ "datasets": [
+  ["GSE67905","https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67905&targ=self&form=text&view=full","GEO SOFT read","Human HeLa","BUBR1 siRNA with siNS/CENP-E/Eg5 context","3 days; siRNA concentration not in series record","8 arrays; duplicates per condition","No raw reanalysis","Proposed cell-cycle/slippage-aware expression analysis only; no signature-as-rescue claim","Mitosis composition; selection; siRNA specificity; batch; cancer background"],
+  ["GSE290206","https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290206","Accession read from primary paper E43 p21; repository not independently retrieved","Drosophila developing brain","bub3-depletion CIN versus control","RNAseq developmental sampling; exact accession-level parameters not extracted","Not extracted from repository","No raw reanalysis","Proposed verify proteostasis/mitochondrial expression after controlling developmental cell composition","Fly-to-human; SAC gene mismatch; tissue composition; no drug rescue in RNA signature"],
+  ["GSE301548","https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301548","Accession read from primary paper E43 p21; repository not independently retrieved","Drosophila developing brain","Simple trisomies comparator","Exact accession-level parameters not extracted","Not extracted from repository","No raw reanalysis","Proposed contrast simple trisomy versus complex CIN, not interchangeable disease models","Developmental stage/cell mix; different karyotype burden"],
+  ["DepMap26Q3","https://forum.depmap.org/t/announcing-the-26q3-release/4692","Release notes read; announced2026-10-05","Cancer-cell panels","Exact BUB1B/RMS-matched subgroup not established","No drug exposure series analyzed","Not applicable to release notes","No raw reanalysis","Proposed annotate RMS subtype/genotype and validate candidate dependencies experimentally","Cancer-only data cannot establish normal constitutional therapeutic window; expression/cell-cycle confounding"]
+ ]
+}

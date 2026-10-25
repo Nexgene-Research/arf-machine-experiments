@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.DS_Store
+Thumbs.db
+*.zip
+*_err.txt
+
+# Proprietary system fonts used only for local PDF rendering
+assets/fonts/

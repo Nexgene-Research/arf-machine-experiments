@@ -1,0 +1,18 @@
+{
+  "evidence_claims": 54,
+  "nodes": 134,
+  "edges": 77,
+  "paths": 19,
+  "candidates": 18,
+  "tiers": {
+    "3": 10,
+    "2": 2,
+    "X": 6
+  },
+  "evidence_states": {
+    "inferred": 15,
+    "hypothesized": 20,
+    "measured": 39,
+    "contradicted": 3
+  }
+}

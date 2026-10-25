@@ -28,6 +28,12 @@ data/
 .env.*
 !.env.example
 
+# Case packages ship their own data/ and results/
+!cases/**/data/
+!cases/**/data/**
+!cases/**/results/
+!cases/**/results/**
+
 # OS and editor files
 .DS_Store
 Thumbs.db

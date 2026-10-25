@@ -1,0 +1,49 @@
+{
+  "reference_only": true,
+  "ensembl": "ENST00000287598.11",
+  "protein_length_aa": 1050,
+  "exon_count": 23,
+  "cds_start_1based": 153,
+  "cds_end_1based": 3305,
+  "variants": [
+    {
+      "public_record": "VCV000533901",
+      "protein": "p.Leu737Ter",
+      "transcript": "NM_001211.6",
+      "protein_accession": "NP_001202.5",
+      "cdna": "c.2210T>G",
+      "genomic": "NC_000015.10:g.40209701T>G",
+      "exon_number_in_mane": 17,
+      "transcript_position_1based": 2362,
+      "distance_to_exon_end_nt": 74,
+      "distance_to_final_exon_junction_nt": 747,
+      "reference_codon": "TTA",
+      "public_allele_codon": "TGA",
+      "context_5prime_to_3prime_DNA": "TCCCTACCAGAG[TGA]AGTGCCTCTGCA",
+      "patient_identity": "Unverified: requires original laboratory report and phase"
+    },
+    {
+      "public_record": "VCV004600147",
+      "protein": "p.Asn1002Lys",
+      "transcript": "NM_001211.6",
+      "protein_accession": "NP_001202.5",
+      "cdna": "c.3006T>A",
+      "genomic": "NC_000015.10:g.40220612T>A",
+      "exon_number_in_mane": 23,
+      "transcript_position_1based": 3158,
+      "distance_to_exon_end_nt": 511,
+      "distance_to_final_exon_junction_nt": -49,
+      "reference_codon": "AAT",
+      "public_allele_codon": "AAA",
+      "context_5prime_to_3prime_DNA": "GTGCGGATTCTG[AAA]GCCAATGATGAG",
+      "patient_identity": "Unverified: requires original laboratory report and phase"
+    }
+  ],
+  "input_sha256": {
+    "bub1b_transcript.json": "3f23a6ba9f26c5a42ccd8a3a111890c83103794b1970477ded12d00daf2bb916",
+    "clinvar_summary.json": "a41f441e8afd616eca62ef1d0e3b0bde9a7753afca0f5a2b839930bf75ef7931",
+    "hpo_selected.json": "8a6be5ddac6039ebe04c1332e333da12a8a4e271419f126dffff8a2d3ee9a64c",
+    "NM_001211.6.gb": "e6162e0c229509602c9aaa77d1c4ce20932694768e32a92f4c9f5cdb4dea3c99",
+    "uniprot_bubr1.json": "73899b2ea96a39d38e3aa41dc08587e70414c40c41ed0088cb92638cfb336ec1"
+  }
+}

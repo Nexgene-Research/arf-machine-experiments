@@ -1,0 +1,16 @@
+probe,status,mechanistic_use,evidence_ids,key_limit
+NMN,NAD precursor not counted as approved medication,NAD/SIRT2-dependent abundance comparator,E10,Abundance is not exact-allele functional rescue
+SIRT2 genetic gain/loss,Genetic perturbation,Distinguish SIRT2-dependent stabilization from nonselective NAD response,E09;E10,K250 checkpoint-silencing and timing effects require controls
+K668 and K250 mutants,Engineered protein probes,Modification-specific stability and checkpoint controls,E09;E11,Mutant mimics do not reproduce all native modification dynamics
+Kinetochore-targeted B56,Genetic rescue construct,Test localized PP2A bypass,E12;E14,No approved drug equivalent; require completed-division fidelity
+B56-binding-defective BUBR1,Engineered negative control,Test specificity of recruitment rescue,E12,Not the supplied human alleles
+BUBR1 1-730,Engineered fragment,Adjacent residual-scaffold positive comparator,E12,Overexpression bypasses native NMD and is not p.Leu737Ter
+ZM447439,Unapproved research Aurora inhibitor,Attachment-balance mechanistic probe,E13,Partial alignment rescue under arrest; inhibition can impair error correction
+BI2536,Investigational PLK1 inhibitor,Negative or divergent attachment-bypass comparator,E13,Did not rescue in cited setting; spindle abnormalities
+U0126,Unapproved research MEK inhibitor,MAPK-dependent BUBR1 bypass comparator,E19,Transformed-cell results do not establish trametinib or normal-case efficacy
+MG132,Research proteasome inhibitor,Assay turnover/arrest context only,E12;E13,Arrest can conceal lack of productive rescue; not a treatment hypothesis
+INK-ATTAC with AP20187,Transgene-dependent research system,Test causal role of marked senescent cells,E15,Genetic cell deletion cannot establish dasatinib efficacy
+Diagnostic NMD perturbation,Research genetic or pharmacologic probe,Establish native stop-transcript sensitivity,E01;E03;E18,Broad effects; use only as diagnostic experimental branch
+Hsp60/Hsp60c or Sod2/GTPx-1 expression,Genetic mitochondrial/ROS probes,Discriminate productive tissue rescue from cell preservation,E44,Fly SAC-loss results not approved-drug or human BUB1B rescue
+p35 expression,Fly genetic apoptosis-blocking probe,Separate progeny survival from stem-cell rescue,E44,Systemic antiapoptotic translation especially problematic with cancer
+Ataluren,EU authorization not renewed,Historical readthrough comparator only,E28,Not current EU-approved candidate and no exact BUB1B rescue

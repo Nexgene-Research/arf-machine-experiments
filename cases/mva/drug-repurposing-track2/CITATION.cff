@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Variant-aware drug repurposing in BUB1B-associated mosaic variegated aneuploidy"
+message: If you use this package, please cite it as below.
+type: dataset
+authors:
+  - family-names: Duman
+    given-names: İlsu
+  - family-names: Beğli
+    given-names: Özge
+  - family-names: Mutlu
+    given-names: Hatice
+  - family-names: Ozkurt
+    given-names: Kutsal Baran
+    email: kutsal.ozkurt@nexgene.ai
+repository-code: https://github.com/
+url: https://nexgene.ai
+abstract: >-
+  A mechanism-grounded, variant-aware drug-repurposing hypothesis portfolio
+  for one reported BUB1B-associated MVA genotype (MVA Hackathon 2026, Track 2).
+  No approved medicine completes a demonstrated exact-genotype causal chain;
+  Tier 1 is empty.
+keywords:
+  - mosaic variegated aneuploidy
+  - BUB1B
+  - BubR1
+  - drug repurposing
+  - spindle-assembly checkpoint
+license: CC-BY-4.0
+date-released: "2026-10-22"

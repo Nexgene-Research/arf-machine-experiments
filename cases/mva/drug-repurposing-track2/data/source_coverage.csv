@@ -1,0 +1,16 @@
+source,status,anchor,limitations
+ClinVar;ClinGen,accessed,E01;E02;E05,Public records/curation accessible; original case genotype not verified; no fresh formal ACMG assignment
+RefSeq;Ensembl;MANE;UniProt;HPO,accessed,E03;E04;E25,Public reference snapshots retained; transcript reconciliation applies only to public alleles
+NCBI Gene,attempted_limited,NCBI Gene701,HTML retrieval not useful; RefSeq/Ensembl sources used instead
+gnomAD,not_independently_verified,ClinVar population annotations,No current versioned allele count/ancestry/coverage audit; source references only
+PubMed;Europe PMC;PMC;publisher full texts,accessed_selectively,Evidence ledger,"Full text where successful; abstracts otherwise; not exhaustive; methods/captions read, not all images/supplements"
+OpenAlex;Crossref;Semantic Scholar;preprint servers,discovery_or_not_directly_queried,Literature tool routing,Some default literature searches used OpenAlex; no separate comprehensive Crossref/Semantic Scholar search; preprints not counted as replication
+FDA;DailyMed;EMA,accessed_selectively,E28;E30-E40;E50-E52,Official status/labels read; local pharmacy supply and nonUS/EU approvals not comprehensively checked
+ClinicalTrials.gov,accessed_selectively,NCT02567435,Current API status verified; CTIS/WHO registries not independently searched
+Google Patents,accessed_selectively,WO2017062311A1;WO2017049409A1,Targeted family/text inspection; no exhaustive patent landscape or legal opinion
+Espacenet;WIPO PATENTSCOPE;Lens,not_queried,No claim made,Availability/licensing not verified in this assessment
+GEO,metadata_only,GSE67905;GSE290206;GSE301548,GSE67905 SOFT inspected; fly accessions read from article; no raw matrix reanalysis
+DepMap;PRISM,metadata_only,DepMap26Q3,Public release notes read; dependency and drug matrices not downloaded/analyzed; per-file license review still needed
+GDSC;CTRP;cBioPortal;LINCS/L1000,not_queried,No claim made,No drug-sensitivity/signature analysis; licenses/access not verified
+Reactome;IUPHAR;ChEMBL;BindingDB;PubChem;Open Targets;DGIdb;DrugCentral,not_systematically_queried,Primary literature and labels used,No exhaustive approved-medication target-library screen; biochemical affinities not fabricated
+SRA;ArrayExpress/BioStudies;PRIDE/ProteomeXchange,not_queried,No claim made,No raw sequencing/proteomics downloads or analysis; access/licensing not verified

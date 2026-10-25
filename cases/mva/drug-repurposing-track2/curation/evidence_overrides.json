@@ -1,0 +1,19 @@
+{
+ "E24": {
+  "model_species": "Human bladder cancer, including chemoradiation-resistant cell/clinical contexts",
+  "tissue_cell_state": "Primary versus CRT-recurrent bladder cancer and experimental cancer cells; not RMS",
+  "case_relevance": "A concrete tumor-fitness warning for BUBR1 enhancement; transfer to RMS is untested"
+ },
+ "E35": {
+  "locator": "Urocit-K label sections1,4,5,7,8.4,12.1,14; mechanism and trial limitations read directly",
+  "claim": "Potassium citrate ER is approved for specified RTA/lithiasis indications; urinary citrate/alkali can alter mineral crystallization, but this does not establish benefit in congenital nephrocalcinosis of unknown cause.",
+  "replication_statistics": "Label explicitly states pivotal trials were non-randomized and non-placebo-controlled; coincident dietary change may overstate efficacy. No trial effect estimate transferred to case.",
+  "negative_conflicting": "Pediatric safety/effectiveness not established; alkaline urine favors calcium-phosphate stability; hyperkalemia and GI injury risk; clinical stone studies do not prove reversal of congenital parenchymal deposits.",
+  "causal_directness": "moderate",
+  "case_relevance": "Conditional renal-support mechanism only; not BUB1B disease modification"
+ },
+ "E40": {
+  "locator": "FDA label pp1-2 and p15 section12.1: TRKA/B/C inhibition; full pediatric/clinical sections not comprehensively reviewed",
+  "target_specificity": "Label reports TRKA/B/C biochemical inhibition; this is not case tumor target-dependence evidence"
+ }
+}
